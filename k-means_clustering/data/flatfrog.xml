@@ -1,0 +1,627 @@
+<root description="Mira 84 EVT" fps="150.01">
+
+    <frame frame_nbr="6201" touch_activity= "3" coords="20" nbr_touch_ups="0" invalid_scanlines="6.08">
+<coord trace_id="  0" trace_age=" 590" x_mm="1037.215" y_mm=" 154.289" vx_mm_s=" 2.73" vy_mm_s="-3.12" A="0.021767" pressure=" 512" />
+<coord trace_id="  1" trace_age=" 589" x_mm="1068.480" y_mm=" 193.832" vx_mm_s=" 1.56" vy_mm_s="-2.34" A="0.020874" pressure=" 512" />
+<coord trace_id="  2" trace_age=" 588" x_mm="1093.516" y_mm=" 216.281" vx_mm_s="-0.78" vy_mm_s=" 0.78" A="0.018124" pressure=" 512" />
+<coord trace_id="  3" trace_age=" 587" x_mm="1127.793" y_mm=" 206.078" vx_mm_s=" 1.17" vy_mm_s="-5.08" A="0.019222" pressure=" 512" />
+<coord trace_id="  4" trace_age=" 587" x_mm="1186.355" y_mm=" 125.133" vx_mm_s="-0.39" vy_mm_s="-0.39" A="0.021650" pressure=" 512" />
+<coord trace_id="  5" trace_age=" 567" x_mm="1520.859" y_mm=" 188.188" vx_mm_s="-0.39" vy_mm_s=" 0.39" A="0.016113" pressure=" 512" />
+<coord trace_id="  6" trace_age=" 567" x_mm="1541.676" y_mm=" 169.820" vx_mm_s="-1.17" vy_mm_s=" 0.78" A="0.016762" pressure=" 512" />
+<coord trace_id="  9" trace_age=" 567" x_mm="1494.148" y_mm=" 178.566" vx_mm_s="-0.39" vy_mm_s=" 0.39" A="0.014669" pressure=" 512" />
+<coord trace_id="  7" trace_age=" 566" x_mm="1567.938" y_mm=" 132.844" vx_mm_s="-0.39" vy_mm_s=" 0.39" A="0.018625" pressure=" 512" />
+<coord trace_id="  8" trace_age=" 566" x_mm="1429.766" y_mm=" 104.887" vx_mm_s=" 2.34" vy_mm_s="-0.39" A="0.020054" pressure=" 512" />
+<coord trace_id=" 10" trace_age=" 499" x_mm=" 652.531" y_mm=" 171.469" vx_mm_s="-87.89" vy_mm_s="-69.92" A="0.025085" pressure=" 512" />
+<coord trace_id=" 11" trace_age=" 494" x_mm=" 510.879" y_mm=" 175.359" vx_mm_s="-83.20" vy_mm_s="-178.12" A="0.021585" pressure=" 512" />
+<coord trace_id=" 12" trace_age=" 494" x_mm=" 618.480" y_mm=" 222.129" vx_mm_s="-121.09" vy_mm_s="-119.92" A="0.019436" pressure=" 512" />
+<coord trace_id=" 13" trace_age=" 493" x_mm=" 532.555" y_mm=" 239.438" vx_mm_s="-130.47" vy_mm_s="-180.08" A="0.020414" pressure=" 512" />
+<coord trace_id=" 14" trace_age=" 492" x_mm=" 583.395" y_mm=" 241.855" vx_mm_s="-116.41" vy_mm_s="-123.44" A="0.020723" pressure=" 512" />
+<coord trace_id=" 15" trace_age=" 488" x_mm=" 191.625" y_mm=" 180.234" vx_mm_s="87.89" vy_mm_s="-63.67" A="0.018845" pressure=" 512" />
+<coord trace_id=" 16" trace_age=" 485" x_mm=" 347.562" y_mm=" 164.824" vx_mm_s="17.58" vy_mm_s="-185.16" A="0.020931" pressure=" 512" />
+<coord trace_id=" 17" trace_age=" 484" x_mm=" 243.898" y_mm=" 225.625" vx_mm_s="129.30" vy_mm_s="-124.61" A="0.015907" pressure=" 512" />
+<coord trace_id=" 18" trace_age=" 482" x_mm=" 324.461" y_mm=" 231.105" vx_mm_s="132.03" vy_mm_s="-184.77" A="0.018373" pressure=" 512" />
+<coord trace_id=" 19" trace_age=" 479" x_mm=" 278.531" y_mm=" 239.637" vx_mm_s="126.95" vy_mm_s="-127.73" A="0.017330" pressure=" 512" />
+</frame>
+<frame frame_nbr="6202" touch_activity= "3" coords="20" nbr_touch_ups="0" invalid_scanlines="6.05">
+<coord trace_id="  0" trace_age=" 591" x_mm="1037.219" y_mm=" 154.285" vx_mm_s=" 1.95" vy_mm_s="-2.34" A="0.021914" pressure=" 512" />
+<coord trace_id="  1" trace_age=" 590" x_mm="1068.488" y_mm=" 193.824" vx_mm_s=" 1.17" vy_mm_s="-1.56" A="0.020994" pressure=" 512" />
+<coord trace_id="  2" trace_age=" 589" x_mm="1093.516" y_mm=" 216.289" vx_mm_s="-0.39" vy_mm_s=" 0.39" A="0.017937" pressure=" 512" />
+<coord trace_id="  3" trace_age=" 588" x_mm="1127.793" y_mm=" 206.074" vx_mm_s=" 0.78" vy_mm_s="-3.52" A="0.019114" pressure=" 512" />
+<coord trace_id="  4" trace_age=" 588" x_mm="1186.355" y_mm=" 125.137" vx_mm_s="-0.39" vy_mm_s="-0.39" A="0.021708" pressure=" 512" />
+<coord trace_id="  5" trace_age=" 568" x_mm="1520.859" y_mm=" 188.195" vx_mm_s="-0.39" vy_mm_s=" 0.39" A="0.016237" pressure=" 512" />
+<coord trace_id="  6" trace_age=" 568" x_mm="1541.676" y_mm=" 169.820" vx_mm_s="-0.78" vy_mm_s=" 0.39" A="0.016830" pressure=" 512" />
+<coord trace_id="  9" trace_age=" 568" x_mm="1494.148" y_mm=" 178.574" vx_mm_s="-0.39" vy_mm_s=" 0.39" A="0.014807" pressure=" 512" />
+<coord trace_id="  7" trace_age=" 567" x_mm="1567.934" y_mm=" 132.848" vx_mm_s="-0.39" vy_mm_s=" 0.39" A="0.018637" pressure=" 512" />
+<coord trace_id="  8" trace_age=" 567" x_mm="1429.770" y_mm=" 104.883" vx_mm_s=" 1.56" vy_mm_s="-0.39" A="0.020159" pressure=" 512" />
+<coord trace_id=" 10" trace_age=" 500" x_mm=" 651.758" y_mm=" 170.922" vx_mm_s="-89.45" vy_mm_s="-65.23" A="0.025009" pressure=" 512" />
+<coord trace_id=" 11" trace_age=" 495" x_mm=" 510.301" y_mm=" 173.398" vx_mm_s="-73.05" vy_mm_s="-186.72" A="0.021368" pressure=" 512" />
+<coord trace_id=" 12" trace_age=" 495" x_mm=" 617.293" y_mm=" 220.914" vx_mm_s="-126.95" vy_mm_s="-108.59" A="0.019838" pressure=" 512" />
+<coord trace_id=" 13" trace_age=" 494" x_mm=" 531.277" y_mm=" 237.598" vx_mm_s="-136.72" vy_mm_s="-175.00" A="0.019773" pressure=" 512" />
+<coord trace_id=" 14" trace_age=" 493" x_mm=" 582.340" y_mm=" 240.547" vx_mm_s="-109.38" vy_mm_s="-126.17" A="0.020922" pressure=" 512" />
+<coord trace_id=" 15" trace_age=" 489" x_mm=" 192.230" y_mm=" 179.742" vx_mm_s="78.12" vy_mm_s="-58.98" A="0.018759" pressure=" 512" />
+<coord trace_id=" 16" trace_age=" 486" x_mm=" 347.555" y_mm=" 162.914" vx_mm_s="12.89" vy_mm_s="-190.62" A="0.020443" pressure=" 512" />
+<coord trace_id=" 17" trace_age=" 485" x_mm=" 245.223" y_mm=" 224.242" vx_mm_s="141.41" vy_mm_s="-132.03" A="0.016029" pressure=" 512" />
+<coord trace_id=" 18" trace_age=" 483" x_mm=" 325.742" y_mm=" 229.285" vx_mm_s="120.31" vy_mm_s="-178.52" A="0.018139" pressure=" 512" />
+<coord trace_id=" 19" trace_age=" 480" x_mm=" 279.773" y_mm=" 238.348" vx_mm_s="124.22" vy_mm_s="-127.73" A="0.017220" pressure=" 512" />
+</frame>
+<frame frame_nbr="6203" touch_activity= "3" coords="20" nbr_touch_ups="0" invalid_scanlines="6.08">
+<coord trace_id="  0" trace_age=" 592" x_mm="1037.223" y_mm=" 154.281" vx_mm_s=" 1.17" vy_mm_s="-1.56" A="0.021811" pressure=" 512" />
+<coord trace_id="  1" trace_age=" 591" x_mm="1068.496" y_mm=" 193.816" vx_mm_s=" 0.78" vy_mm_s="-1.17" A="0.020964" pressure=" 512" />
+<coord trace_id="  2" trace_age=" 590" x_mm="1093.516" y_mm=" 216.297" vx_mm_s="-0.39" vy_mm_s=" 0.39" A="0.017908" pressure=" 512" />
+<coord trace_id="  3" trace_age=" 589" x_mm="1127.793" y_mm=" 206.070" vx_mm_s=" 0.39" vy_mm_s="-2.34" A="0.019072" pressure=" 512" />
+<coord trace_id="  4" trace_age=" 589" x_mm="1186.355" y_mm=" 125.141" vx_mm_s="-0.39" vy_mm_s="-0.39" A="0.021643" pressure=" 512" />
+<coord trace_id="  5" trace_age=" 569" x_mm="1520.859" y_mm=" 188.203" vx_mm_s="-0.39" vy_mm_s=" 0.39" A="0.016335" pressure=" 512" />
+<coord trace_id="  6" trace_age=" 569" x_mm="1541.676" y_mm=" 169.820" vx_mm_s="-0.39" vy_mm_s=" 0.39" A="0.016886" pressure=" 512" />
+<coord trace_id="  9" trace_age=" 569" x_mm="1494.145" y_mm=" 178.590" vx_mm_s="-0.39" vy_mm_s=" 5.47" A="0.014816" pressure=" 512" />
+<coord trace_id="  7" trace_age=" 568" x_mm="1567.930" y_mm=" 132.852" vx_mm_s="-0.39" vy_mm_s=" 0.39" A="0.018505" pressure=" 512" />
+<coord trace_id="  8" trace_age=" 568" x_mm="1429.781" y_mm=" 104.883" vx_mm_s=" 6.64" vy_mm_s=" 0.39" A="0.020145" pressure=" 512" />
+<coord trace_id=" 10" trace_age=" 501" x_mm=" 651.055" y_mm=" 170.414" vx_mm_s="-83.59" vy_mm_s="-61.72" A="0.024813" pressure=" 512" />
+<coord trace_id=" 11" trace_age=" 496" x_mm=" 509.797" y_mm=" 171.387" vx_mm_s="-67.58" vy_mm_s="-193.36" A="0.022039" pressure=" 512" />
+<coord trace_id=" 12" trace_age=" 496" x_mm=" 616.078" y_mm=" 219.652" vx_mm_s="-125.00" vy_mm_s="-121.88" A="0.020535" pressure=" 512" />
+<coord trace_id=" 13" trace_age=" 495" x_mm=" 530.062" y_mm=" 235.660" vx_mm_s="-117.19" vy_mm_s="-192.58" A="0.020226" pressure=" 512" />
+<coord trace_id=" 14" trace_age=" 494" x_mm=" 581.203" y_mm=" 239.043" vx_mm_s="-119.53" vy_mm_s="-144.14" A="0.020391" pressure=" 512" />
+<coord trace_id=" 15" trace_age=" 490" x_mm=" 192.918" y_mm=" 179.266" vx_mm_s="81.64" vy_mm_s="-55.47" A="0.018684" pressure=" 512" />
+<coord trace_id=" 16" trace_age=" 487" x_mm=" 347.531" y_mm=" 160.938" vx_mm_s=" 9.77" vy_mm_s="-197.66" A="0.020031" pressure=" 512" />
+<coord trace_id=" 17" trace_age=" 486" x_mm=" 246.516" y_mm=" 222.883" vx_mm_s="131.25" vy_mm_s="-131.64" A="0.015858" pressure=" 512" />
+<coord trace_id=" 18" trace_age=" 484" x_mm=" 327.031" y_mm=" 227.426" vx_mm_s="121.48" vy_mm_s="-185.55" A="0.018202" pressure=" 512" />
+<coord trace_id=" 19" trace_age=" 481" x_mm=" 281.027" y_mm=" 237.039" vx_mm_s="126.17" vy_mm_s="-132.42" A="0.016998" pressure=" 512" />
+</frame>
+<frame frame_nbr="6204" touch_activity= "3" coords="20" nbr_touch_ups="0" invalid_scanlines="6.05">
+<coord trace_id="  0" trace_age=" 593" x_mm="1037.227" y_mm=" 154.277" vx_mm_s=" 0.78" vy_mm_s="-1.17" A="0.021877" pressure=" 512" />
+<coord trace_id="  1" trace_age=" 592" x_mm="1068.504" y_mm=" 193.809" vx_mm_s=" 0.39" vy_mm_s="-0.78" A="0.020994" pressure=" 512" />
+<coord trace_id="  2" trace_age=" 591" x_mm="1093.516" y_mm=" 216.305" vx_mm_s="-0.39" vy_mm_s=" 0.39" A="0.017889" pressure=" 512" />
+<coord trace_id="  3" trace_age=" 590" x_mm="1127.793" y_mm=" 206.066" vx_mm_s=" 0.39" vy_mm_s="-1.56" A="0.018990" pressure=" 512" />
+<coord trace_id="  4" trace_age=" 590" x_mm="1186.355" y_mm=" 125.145" vx_mm_s="-0.39" vy_mm_s="-0.39" A="0.021708" pressure=" 512" />
+<coord trace_id="  5" trace_age=" 570" x_mm="1520.859" y_mm=" 188.211" vx_mm_s="-0.39" vy_mm_s=" 0.39" A="0.016396" pressure=" 512" />
+<coord trace_id="  6" trace_age=" 570" x_mm="1541.676" y_mm=" 169.820" vx_mm_s="-0.39" vy_mm_s=" 0.39" A="0.016790" pressure=" 512" />
+<coord trace_id="  9" trace_age=" 570" x_mm="1494.145" y_mm=" 178.602" vx_mm_s="-0.39" vy_mm_s=" 3.91" A="0.014956" pressure=" 512" />
+<coord trace_id="  7" trace_age=" 569" x_mm="1567.930" y_mm=" 132.859" vx_mm_s=" 1.56" vy_mm_s=" 4.69" A="0.018528" pressure=" 512" />
+<coord trace_id="  8" trace_age=" 569" x_mm="1429.789" y_mm=" 104.883" vx_mm_s=" 4.69" vy_mm_s=" 0.39" A="0.020288" pressure=" 512" />
+<coord trace_id=" 10" trace_age=" 502" x_mm=" 650.312" y_mm=" 169.930" vx_mm_s="-85.94" vy_mm_s="-58.20" A="0.024240" pressure=" 512" />
+<coord trace_id=" 11" trace_age=" 497" x_mm=" 509.219" y_mm=" 168.809" vx_mm_s="-63.67" vy_mm_s="-201.17" A="0.021599" pressure=" 512" />
+<coord trace_id=" 12" trace_age=" 497" x_mm=" 614.883" y_mm=" 218.480" vx_mm_s="-122.66" vy_mm_s="-110.94" A="0.020620" pressure=" 512" />
+<coord trace_id=" 13" trace_age=" 496" x_mm=" 528.891" y_mm=" 233.715" vx_mm_s="-121.48" vy_mm_s="-189.06" A="0.020325" pressure=" 512" />
+<coord trace_id=" 14" trace_age=" 495" x_mm=" 580.098" y_mm=" 237.500" vx_mm_s="-117.58" vy_mm_s="-149.22" A="0.020041" pressure=" 512" />
+<coord trace_id=" 15" trace_age=" 491" x_mm=" 193.598" y_mm=" 178.809" vx_mm_s="78.52" vy_mm_s="-52.34" A="0.018402" pressure=" 512" />
+<coord trace_id=" 16" trace_age=" 488" x_mm=" 347.477" y_mm=" 158.371" vx_mm_s=" 3.91" vy_mm_s="-206.25" A="0.020546" pressure=" 512" />
+<coord trace_id=" 17" trace_age=" 487" x_mm=" 247.820" y_mm=" 221.484" vx_mm_s="132.42" vy_mm_s="-137.50" A="0.016203" pressure=" 512" />
+<coord trace_id=" 18" trace_age=" 485" x_mm=" 328.273" y_mm=" 225.457" vx_mm_s="116.41" vy_mm_s="-196.48" A="0.018026" pressure=" 512" />
+<coord trace_id=" 19" trace_age=" 482" x_mm=" 282.301" y_mm=" 235.738" vx_mm_s="126.95" vy_mm_s="-129.30" A="0.016912" pressure=" 512" />
+</frame>
+<frame frame_nbr="6205" touch_activity= "3" coords="20" nbr_touch_ups="0" invalid_scanlines="6.08">
+<coord trace_id="  0" trace_age=" 594" x_mm="1037.230" y_mm=" 154.273" vx_mm_s=" 0.39" vy_mm_s="-0.78" A="0.021963" pressure=" 512" />
+<coord trace_id="  1" trace_age=" 593" x_mm="1068.508" y_mm=" 193.801" vx_mm_s=" 0.39" vy_mm_s="-0.39" A="0.021101" pressure=" 512" />
+<coord trace_id="  2" trace_age=" 592" x_mm="1093.516" y_mm=" 216.312" vx_mm_s="-0.39" vy_mm_s=" 0.39" A="0.017809" pressure=" 512" />
+<coord trace_id="  3" trace_age=" 591" x_mm="1127.793" y_mm=" 206.062" vx_mm_s=" 0.39" vy_mm_s="-1.17" A="0.018963" pressure=" 512" />
+<coord trace_id="  4" trace_age=" 591" x_mm="1186.355" y_mm=" 125.148" vx_mm_s="-0.39" vy_mm_s="-0.39" A="0.021803" pressure=" 512" />
+<coord trace_id="  5" trace_age=" 571" x_mm="1520.859" y_mm=" 188.219" vx_mm_s="-0.39" vy_mm_s=" 0.39" A="0.016613" pressure=" 512" />
+<coord trace_id="  6" trace_age=" 571" x_mm="1541.676" y_mm=" 169.820" vx_mm_s="-0.39" vy_mm_s=" 0.39" A="0.016773" pressure=" 512" />
+<coord trace_id="  9" trace_age=" 571" x_mm="1494.145" y_mm=" 178.613" vx_mm_s="-0.39" vy_mm_s=" 2.73" A="0.015100" pressure=" 512" />
+<coord trace_id="  7" trace_age=" 570" x_mm="1567.930" y_mm=" 132.867" vx_mm_s=" 1.17" vy_mm_s=" 3.12" A="0.018541" pressure=" 512" />
+<coord trace_id="  8" trace_age=" 570" x_mm="1429.797" y_mm=" 104.883" vx_mm_s=" 3.12" vy_mm_s=" 0.39" A="0.020126" pressure=" 512" />
+<coord trace_id=" 10" trace_age=" 503" x_mm=" 649.309" y_mm=" 169.328" vx_mm_s="-88.67" vy_mm_s="-55.47" A="0.023937" pressure=" 512" />
+<coord trace_id=" 11" trace_age=" 498" x_mm=" 508.812" y_mm=" 166.820" vx_mm_s="-57.81" vy_mm_s="-201.17" A="0.021658" pressure=" 512" />
+<coord trace_id=" 12" trace_age=" 498" x_mm=" 613.750" y_mm=" 217.371" vx_mm_s="-110.55" vy_mm_s="-108.59" A="0.020399" pressure=" 512" />
+<coord trace_id=" 13" trace_age=" 497" x_mm=" 527.445" y_mm=" 231.156" vx_mm_s="-119.14" vy_mm_s="-201.56" A="0.020971" pressure=" 512" />
+<coord trace_id=" 14" trace_age=" 496" x_mm=" 579.035" y_mm=" 235.926" vx_mm_s="-111.72" vy_mm_s="-151.17" A="0.020205" pressure=" 512" />
+<coord trace_id=" 15" trace_age=" 492" x_mm=" 194.516" y_mm=" 178.246" vx_mm_s="83.20" vy_mm_s="-51.56" A="0.018126" pressure=" 512" />
+<coord trace_id=" 16" trace_age=" 489" x_mm=" 347.422" y_mm=" 156.219" vx_mm_s=" 1.95" vy_mm_s="-219.92" A="0.019888" pressure=" 512" />
+<coord trace_id=" 17" trace_age=" 488" x_mm=" 249.164" y_mm=" 220.094" vx_mm_s="138.28" vy_mm_s="-134.38" A="0.016441" pressure=" 512" />
+<coord trace_id=" 18" trace_age=" 486" x_mm=" 329.848" y_mm=" 222.664" vx_mm_s="119.14" vy_mm_s="-214.84" A="0.017431" pressure=" 512" />
+<coord trace_id=" 19" trace_age=" 483" x_mm=" 283.652" y_mm=" 234.355" vx_mm_s="136.33" vy_mm_s="-141.41" A="0.017027" pressure=" 512" />
+</frame>
+<frame frame_nbr="6206" touch_activity= "3" coords="20" nbr_touch_ups="0" invalid_scanlines="6.05">
+<coord trace_id="  0" trace_age=" 595" x_mm="1037.234" y_mm=" 154.266" vx_mm_s=" 1.56" vy_mm_s="-4.69" A="0.021915" pressure=" 512" />
+<coord trace_id="  1" trace_age=" 594" x_mm="1068.512" y_mm=" 193.793" vx_mm_s=" 0.39" vy_mm_s="-0.39" A="0.021009" pressure=" 512" />
+<coord trace_id="  2" trace_age=" 593" x_mm="1093.516" y_mm=" 216.320" vx_mm_s="-0.39" vy_mm_s=" 0.39" A="0.017799" pressure=" 512" />
+<coord trace_id="  3" trace_age=" 592" x_mm="1127.793" y_mm=" 206.059" vx_mm_s=" 0.39" vy_mm_s="-0.78" A="0.018929" pressure=" 512" />
+<coord trace_id="  4" trace_age=" 592" x_mm="1186.355" y_mm=" 125.152" vx_mm_s="-0.39" vy_mm_s="-0.39" A="0.021849" pressure=" 512" />
+<coord trace_id="  5" trace_age=" 572" x_mm="1520.859" y_mm=" 188.227" vx_mm_s="-0.39" vy_mm_s=" 0.39" A="0.016567" pressure=" 512" />
+<coord trace_id="  6" trace_age=" 572" x_mm="1541.676" y_mm=" 169.820" vx_mm_s="-0.39" vy_mm_s=" 0.39" A="0.016571" pressure=" 512" />
+<coord trace_id="  9" trace_age=" 572" x_mm="1494.145" y_mm=" 178.625" vx_mm_s="-0.39" vy_mm_s=" 1.95" A="0.014988" pressure=" 512" />
+<coord trace_id="  7" trace_age=" 571" x_mm="1567.930" y_mm=" 132.875" vx_mm_s=" 0.78" vy_mm_s=" 2.34" A="0.018482" pressure=" 512" />
+<coord trace_id="  8" trace_age=" 571" x_mm="1429.805" y_mm=" 104.883" vx_mm_s=" 2.34" vy_mm_s=" 0.39" A="0.020033" pressure=" 512" />
+<coord trace_id=" 10" trace_age=" 504" x_mm=" 648.609" y_mm=" 168.902" vx_mm_s="-85.16" vy_mm_s="-53.12" A="0.023703" pressure=" 512" />
+<coord trace_id=" 11" trace_age=" 499" x_mm=" 508.398" y_mm=" 164.746" vx_mm_s="-57.03" vy_mm_s="-209.77" A="0.021784" pressure=" 512" />
+<coord trace_id=" 12" trace_age=" 499" x_mm=" 612.531" y_mm=" 216.215" vx_mm_s="-123.05" vy_mm_s="-114.84" A="0.019520" pressure=" 512" />
+<coord trace_id=" 13" trace_age=" 498" x_mm=" 526.422" y_mm=" 229.168" vx_mm_s="-111.33" vy_mm_s="-199.61" A="0.020214" pressure=" 512" />
+<coord trace_id=" 14" trace_age=" 497" x_mm=" 578.039" y_mm=" 234.359" vx_mm_s="-105.08" vy_mm_s="-148.83" A="0.020311" pressure=" 512" />
+<coord trace_id=" 15" trace_age=" 493" x_mm=" 195.438" y_mm=" 177.668" vx_mm_s="88.67" vy_mm_s="-58.20" A="0.018280" pressure=" 512" />
+<coord trace_id=" 16" trace_age=" 490" x_mm=" 347.340" y_mm=" 153.469" vx_mm_s="-1.95" vy_mm_s="-225.78" A="0.020210" pressure=" 512" />
+<coord trace_id=" 17" trace_age=" 489" x_mm=" 250.520" y_mm=" 218.879" vx_mm_s="134.77" vy_mm_s="-116.02" A="0.016176" pressure=" 512" />
+<coord trace_id=" 18" trace_age=" 487" x_mm=" 330.863" y_mm=" 220.547" vx_mm_s="108.20" vy_mm_s="-208.98" A="0.017735" pressure=" 512" />
+<coord trace_id=" 19" trace_age=" 484" x_mm=" 284.957" y_mm=" 232.953" vx_mm_s="127.34" vy_mm_s="-141.80" A="0.017138" pressure=" 512" />
+</frame>
+<frame frame_nbr="6207" touch_activity= "3" coords="20" nbr_touch_ups="0" invalid_scanlines="6.08">
+<coord trace_id="  0" trace_age=" 596" x_mm="1037.238" y_mm=" 154.258" vx_mm_s=" 1.17" vy_mm_s="-3.12" A="0.021893" pressure=" 512" />
+<coord trace_id="  1" trace_age=" 595" x_mm="1068.516" y_mm=" 193.785" vx_mm_s=" 0.39" vy_mm_s="-0.39" A="0.021221" pressure=" 512" />
+<coord trace_id="  2" trace_age=" 594" x_mm="1093.516" y_mm=" 216.328" vx_mm_s="-0.39" vy_mm_s=" 0.39" A="0.017799" pressure=" 512" />
+<coord trace_id="  3" trace_age=" 593" x_mm="1127.793" y_mm=" 206.055" vx_mm_s=" 0.39" vy_mm_s="-0.39" A="0.018778" pressure=" 512" />
+<coord trace_id="  4" trace_age=" 593" x_mm="1186.355" y_mm=" 125.156" vx_mm_s="-0.39" vy_mm_s="-0.39" A="0.021990" pressure=" 512" />
+<coord trace_id="  5" trace_age=" 573" x_mm="1520.859" y_mm=" 188.238" vx_mm_s=" 1.56" vy_mm_s=" 5.08" A="0.016644" pressure=" 512" />
+<coord trace_id="  6" trace_age=" 573" x_mm="1541.676" y_mm=" 169.820" vx_mm_s="-0.39" vy_mm_s=" 0.39" A="0.016603" pressure=" 512" />
+<coord trace_id="  9" trace_age=" 573" x_mm="1494.148" y_mm=" 178.641" vx_mm_s=" 3.91" vy_mm_s=" 3.91" A="0.014975" pressure=" 512" />
+<coord trace_id="  7" trace_age=" 572" x_mm="1567.930" y_mm=" 132.887" vx_mm_s=" 2.34" vy_mm_s=" 6.25" A="0.018425" pressure=" 512" />
+<coord trace_id="  8" trace_age=" 572" x_mm="1429.820" y_mm=" 104.887" vx_mm_s=" 5.86" vy_mm_s=" 3.91" A="0.019999" pressure=" 512" />
+<coord trace_id=" 10" trace_age=" 505" x_mm=" 647.855" y_mm=" 168.480" vx_mm_s="-87.50" vy_mm_s="-50.39" A="0.023418" pressure=" 512" />
+<coord trace_id=" 11" trace_age=" 500" x_mm=" 508.047" y_mm=" 162.566" vx_mm_s="-42.58" vy_mm_s="-217.97" A="0.020889" pressure=" 512" />
+<coord trace_id=" 12" trace_age=" 500" x_mm=" 611.285" y_mm=" 215.078" vx_mm_s="-125.00" vy_mm_s="-114.45" A="0.019341" pressure=" 512" />
+<coord trace_id=" 13" trace_age=" 499" x_mm=" 525.492" y_mm=" 227.082" vx_mm_s="-101.95" vy_mm_s="-208.59" A="0.020464" pressure=" 512" />
+<coord trace_id=" 14" trace_age=" 498" x_mm=" 577.035" y_mm=" 232.746" vx_mm_s="-108.98" vy_mm_s="-154.69" A="0.020201" pressure=" 512" />
+<coord trace_id=" 15" trace_age=" 494" x_mm=" 196.102" y_mm=" 177.215" vx_mm_s="79.69" vy_mm_s="-52.73" A="0.018421" pressure=" 512" />
+<coord trace_id=" 16" trace_age=" 491" x_mm=" 347.246" y_mm=" 151.234" vx_mm_s="-6.25" vy_mm_s="-234.38" A="0.020372" pressure=" 512" />
+<coord trace_id=" 17" trace_age=" 490" x_mm=" 251.945" y_mm=" 217.703" vx_mm_s="138.67" vy_mm_s="-120.70" A="0.016361" pressure=" 512" />
+<coord trace_id=" 18" trace_age=" 488" x_mm=" 331.691" y_mm=" 218.156" vx_mm_s="98.44" vy_mm_s="-228.52" A="0.017458" pressure=" 512" />
+<coord trace_id=" 19" trace_age=" 485" x_mm=" 286.184" y_mm=" 231.508" vx_mm_s="121.09" vy_mm_s="-142.58" A="0.016834" pressure=" 512" />
+</frame>
+<frame frame_nbr="6208" touch_activity= "3" coords="20" nbr_touch_ups="0" invalid_scanlines="6.05">
+<coord trace_id="  0" trace_age=" 597" x_mm="1037.242" y_mm=" 154.250" vx_mm_s=" 0.78" vy_mm_s="-2.34" A="0.021650" pressure=" 512" />
+<coord trace_id="  1" trace_age=" 596" x_mm="1068.520" y_mm=" 193.777" vx_mm_s=" 0.39" vy_mm_s="-0.39" A="0.021101" pressure=" 512" />
+<coord trace_id="  2" trace_age=" 595" x_mm="1093.516" y_mm=" 216.336" vx_mm_s="-0.39" vy_mm_s=" 0.39" A="0.017782" pressure=" 512" />
+<coord trace_id="  3" trace_age=" 594" x_mm="1127.793" y_mm=" 206.051" vx_mm_s=" 0.39" vy_mm_s="-0.39" A="0.018761" pressure=" 512" />
+<coord trace_id="  4" trace_age=" 594" x_mm="1186.355" y_mm=" 125.160" vx_mm_s="-0.39" vy_mm_s="-0.39" A="0.022051" pressure=" 512" />
+<coord trace_id="  5" trace_age=" 574" x_mm="1520.859" y_mm=" 188.250" vx_mm_s=" 1.17" vy_mm_s=" 3.52" A="0.016697" pressure=" 512" />
+<coord trace_id="  6" trace_age=" 574" x_mm="1541.676" y_mm=" 169.820" vx_mm_s="-0.39" vy_mm_s=" 0.39" A="0.016481" pressure=" 512" />
+<coord trace_id="  9" trace_age=" 574" x_mm="1494.152" y_mm=" 178.656" vx_mm_s=" 2.73" vy_mm_s=" 2.73" A="0.014912" pressure=" 512" />
+<coord trace_id="  7" trace_age=" 573" x_mm="1567.930" y_mm=" 132.906" vx_mm_s=" 1.95" vy_mm_s=" 9.38" A="0.018408" pressure=" 512" />
+<coord trace_id="  8" trace_age=" 573" x_mm="1429.832" y_mm=" 104.891" vx_mm_s=" 3.91" vy_mm_s=" 2.73" A="0.019907" pressure=" 512" />
+<coord trace_id=" 10" trace_age=" 506" x_mm=" 646.836" y_mm=" 167.922" vx_mm_s="-94.53" vy_mm_s="-53.12" A="0.023064" pressure=" 512" />
+<coord trace_id=" 11" trace_age=" 501" x_mm=" 507.680" y_mm=" 159.715" vx_mm_s="-39.45" vy_mm_s="-226.56" A="0.021524" pressure=" 512" />
+<coord trace_id=" 12" trace_age=" 501" x_mm=" 609.922" y_mm=" 213.926" vx_mm_s="-137.11" vy_mm_s="-116.41" A="0.019493" pressure=" 512" />
+<coord trace_id=" 13" trace_age=" 500" x_mm=" 524.352" y_mm=" 224.035" vx_mm_s="-99.22" vy_mm_s="-236.72" A="0.020527" pressure=" 512" />
+<coord trace_id=" 14" trace_age=" 499" x_mm=" 575.906" y_mm=" 231.121" vx_mm_s="-123.44" vy_mm_s="-154.30" A="0.019337" pressure=" 512" />
+<coord trace_id=" 15" trace_age=" 495" x_mm=" 196.945" y_mm=" 176.590" vx_mm_s="82.03" vy_mm_s="-58.59" A="0.018536" pressure=" 512" />
+<coord trace_id=" 16" trace_age=" 492" x_mm=" 347.098" y_mm=" 148.977" vx_mm_s="-12.89" vy_mm_s="-233.20" A="0.020205" pressure=" 512" />
+<coord trace_id=" 17" trace_age=" 491" x_mm=" 253.383" y_mm=" 216.520" vx_mm_s="137.89" vy_mm_s="-127.34" A="0.015812" pressure=" 512" />
+<coord trace_id=" 18" trace_age=" 489" x_mm=" 332.512" y_mm=" 215.812" vx_mm_s="107.81" vy_mm_s="-223.44" A="0.017916" pressure=" 512" />
+<coord trace_id=" 19" trace_age=" 486" x_mm=" 287.309" y_mm=" 230.031" vx_mm_s="113.28" vy_mm_s="-140.62" A="0.016190" pressure=" 512" />
+</frame>
+<frame frame_nbr="6209" touch_activity= "3" coords="20" nbr_touch_ups="0" invalid_scanlines="6.08">
+<coord trace_id="  0" trace_age=" 598" x_mm="1037.246" y_mm=" 154.242" vx_mm_s=" 0.39" vy_mm_s="-1.56" A="0.021622" pressure=" 512" />
+<coord trace_id="  1" trace_age=" 597" x_mm="1068.523" y_mm=" 193.770" vx_mm_s=" 0.39" vy_mm_s="-0.39" A="0.020964" pressure=" 512" />
+<coord trace_id="  2" trace_age=" 596" x_mm="1093.516" y_mm=" 216.344" vx_mm_s="-0.39" vy_mm_s=" 0.39" A="0.017651" pressure=" 512" />
+<coord trace_id="  3" trace_age=" 595" x_mm="1127.793" y_mm=" 206.047" vx_mm_s=" 0.39" vy_mm_s="-0.39" A="0.018568" pressure=" 512" />
+<coord trace_id="  4" trace_age=" 595" x_mm="1186.355" y_mm=" 125.164" vx_mm_s="-0.39" vy_mm_s="-0.39" A="0.022091" pressure=" 512" />
+<coord trace_id="  5" trace_age=" 575" x_mm="1520.863" y_mm=" 188.270" vx_mm_s=" 1.95" vy_mm_s=" 7.81" A="0.016630" pressure=" 512" />
+<coord trace_id="  6" trace_age=" 575" x_mm="1541.676" y_mm=" 169.820" vx_mm_s="-0.39" vy_mm_s=" 0.39" A="0.016430" pressure=" 512" />
+<coord trace_id="  9" trace_age=" 575" x_mm="1494.160" y_mm=" 178.676" vx_mm_s=" 5.08" vy_mm_s=" 6.64" A="0.014791" pressure=" 512" />
+<coord trace_id="  7" trace_age=" 574" x_mm="1567.930" y_mm=" 132.922" vx_mm_s=" 1.17" vy_mm_s=" 6.64" A="0.018209" pressure=" 512" />
+<coord trace_id="  8" trace_age=" 574" x_mm="1429.848" y_mm=" 104.898" vx_mm_s=" 5.47" vy_mm_s=" 6.25" A="0.019789" pressure=" 512" />
+<coord trace_id=" 10" trace_age=" 507" x_mm=" 645.824" y_mm=" 167.359" vx_mm_s="-94.92" vy_mm_s="-53.91" A="0.022715" pressure=" 512" />
+<coord trace_id=" 11" trace_age=" 502" x_mm=" 507.293" y_mm=" 156.676" vx_mm_s="-46.48" vy_mm_s="-250.39" A="0.020725" pressure=" 512" />
+<coord trace_id=" 12" trace_age=" 502" x_mm=" 608.531" y_mm=" 212.777" vx_mm_s="-137.89" vy_mm_s="-121.48" A="0.019314" pressure=" 512" />
+<coord trace_id=" 13" trace_age=" 501" x_mm=" 523.391" y_mm=" 221.629" vx_mm_s="-121.09" vy_mm_s="-237.11" A="0.020645" pressure=" 512" />
+<coord trace_id=" 14" trace_age=" 500" x_mm=" 574.656" y_mm=" 229.379" vx_mm_s="-125.00" vy_mm_s="-171.09" A="0.018761" pressure=" 512" />
+<coord trace_id=" 15" trace_age=" 496" x_mm=" 197.758" y_mm=" 175.965" vx_mm_s="75.00" vy_mm_s="-60.16" A="0.018423" pressure=" 512" />
+<coord trace_id=" 16" trace_age=" 493" x_mm=" 346.863" y_mm=" 145.992" vx_mm_s="-13.67" vy_mm_s="-241.41" A="0.021088" pressure=" 512" />
+<coord trace_id=" 17" trace_age=" 492" x_mm=" 254.723" y_mm=" 215.305" vx_mm_s="125.78" vy_mm_s="-126.95" A="0.015966" pressure=" 512" />
+<coord trace_id=" 18" trace_age=" 490" x_mm=" 333.320" y_mm=" 213.559" vx_mm_s="97.27" vy_mm_s="-215.62" A="0.018095" pressure=" 512" />
+<coord trace_id=" 19" trace_age=" 487" x_mm=" 288.230" y_mm=" 228.211" vx_mm_s="104.69" vy_mm_s="-166.02" A="0.015627" pressure=" 512" />
+</frame>
+<frame frame_nbr="6210" touch_activity= "3" coords="20" nbr_touch_ups="0" invalid_scanlines="6.05">
+<coord trace_id="  0" trace_age=" 599" x_mm="1037.254" y_mm=" 154.230" vx_mm_s=" 2.73" vy_mm_s="-5.08" A="0.021429" pressure=" 512" />
+<coord trace_id="  1" trace_age=" 598" x_mm="1068.527" y_mm=" 193.762" vx_mm_s=" 0.39" vy_mm_s="-0.39" A="0.020889" pressure=" 512" />
+<coord trace_id="  2" trace_age=" 597" x_mm="1093.516" y_mm=" 216.352" vx_mm_s="-0.39" vy_mm_s=" 0.39" A="0.017677" pressure=" 512" />
+<coord trace_id="  3" trace_age=" 596" x_mm="1127.793" y_mm=" 206.043" vx_mm_s=" 0.39" vy_mm_s="-0.39" A="0.018692" pressure=" 512" />
+<coord trace_id="  4" trace_age=" 596" x_mm="1186.352" y_mm=" 125.172" vx_mm_s="-3.52" vy_mm_s=" 3.12" A="0.022121" pressure=" 512" />
+<coord trace_id="  5" trace_age=" 576" x_mm="1520.867" y_mm=" 188.289" vx_mm_s=" 1.17" vy_mm_s=" 5.47" A="0.016590" pressure=" 512" />
+<coord trace_id="  6" trace_age=" 576" x_mm="1541.676" y_mm=" 169.820" vx_mm_s="-0.39" vy_mm_s=" 0.39" A="0.016384" pressure=" 512" />
+<coord trace_id="  9" trace_age=" 576" x_mm="1494.168" y_mm=" 178.695" vx_mm_s=" 3.52" vy_mm_s=" 4.69" A="0.014744" pressure=" 512" />
+<coord trace_id="  7" trace_age=" 575" x_mm="1567.930" y_mm=" 132.945" vx_mm_s=" 0.78" vy_mm_s="11.72" A="0.018236" pressure=" 512" />
+<coord trace_id="  8" trace_age=" 575" x_mm="1429.863" y_mm=" 104.906" vx_mm_s=" 3.91" vy_mm_s=" 4.30" A="0.019712" pressure=" 512" />
+<coord trace_id=" 10" trace_age=" 508" x_mm=" 644.781" y_mm=" 166.777" vx_mm_s="-104.30" vy_mm_s="-58.98" A="0.022388" pressure=" 512" />
+<coord trace_id=" 11" trace_age=" 503" x_mm=" 507.043" y_mm=" 154.234" vx_mm_s="-33.98" vy_mm_s="-256.25" A="0.020266" pressure=" 512" />
+<coord trace_id=" 12" trace_age=" 503" x_mm=" 607.188" y_mm=" 211.609" vx_mm_s="-129.30" vy_mm_s="-123.05" A="0.018791" pressure=" 512" />
+<coord trace_id=" 13" trace_age=" 502" x_mm=" 522.312" y_mm=" 219.254" vx_mm_s="-122.66" vy_mm_s="-232.81" A="0.020796" pressure=" 512" />
+<coord trace_id=" 14" trace_age=" 501" x_mm=" 573.059" y_mm=" 227.199" vx_mm_s="-127.34" vy_mm_s="-175.00" A="0.019066" pressure=" 512" />
+<coord trace_id=" 15" trace_age=" 497" x_mm=" 198.336" y_mm=" 175.398" vx_mm_s="72.27" vy_mm_s="-65.23" A="0.018541" pressure=" 512" />
+<coord trace_id=" 16" trace_age=" 494" x_mm=" 346.617" y_mm=" 143.773" vx_mm_s="-20.31" vy_mm_s="-233.59" A="0.020506" pressure=" 512" />
+<coord trace_id=" 17" trace_age=" 493" x_mm=" 255.988" y_mm=" 213.996" vx_mm_s="123.05" vy_mm_s="-131.25" A="0.015862" pressure=" 512" />
+<coord trace_id=" 18" trace_age=" 491" x_mm=" 334.062" y_mm=" 211.266" vx_mm_s="82.03" vy_mm_s="-223.44" A="0.018234" pressure=" 512" />
+<coord trace_id=" 19" trace_age=" 488" x_mm=" 289.035" y_mm=" 226.312" vx_mm_s="94.92" vy_mm_s="-175.78" A="0.015137" pressure=" 512" />
+</frame>
+<frame frame_nbr="6211" touch_activity= "3" coords="20" nbr_touch_ups="0" invalid_scanlines="6.08">
+<coord trace_id="  0" trace_age=" 600" x_mm="1037.262" y_mm=" 154.219" vx_mm_s=" 1.95" vy_mm_s="-3.52" A="0.021345" pressure=" 512" />
+<coord trace_id="  1" trace_age=" 599" x_mm="1068.531" y_mm=" 193.754" vx_mm_s=" 0.39" vy_mm_s="-0.39" A="0.020782" pressure=" 512" />
+<coord trace_id="  2" trace_age=" 598" x_mm="1093.508" y_mm=" 216.355" vx_mm_s="-4.69" vy_mm_s="-0.39" A="0.017620" pressure=" 512" />
+<coord trace_id="  3" trace_age=" 597" x_mm="1127.789" y_mm=" 206.039" vx_mm_s="-3.91" vy_mm_s=" 0.78" A="0.019093" pressure=" 512" />
+<coord trace_id="  4" trace_age=" 597" x_mm="1186.348" y_mm=" 125.180" vx_mm_s="-2.34" vy_mm_s=" 2.34" A="0.022087" pressure=" 512" />
+<coord trace_id="  5" trace_age=" 577" x_mm="1520.871" y_mm=" 188.312" vx_mm_s=" 0.00" vy_mm_s=" 8.59" A="0.016401" pressure=" 512" />
+<coord trace_id="  6" trace_age=" 577" x_mm="1541.676" y_mm=" 169.820" vx_mm_s="-0.39" vy_mm_s=" 0.39" A="0.016197" pressure=" 512" />
+<coord trace_id="  9" trace_age=" 577" x_mm="1494.176" y_mm=" 178.719" vx_mm_s=" 4.69" vy_mm_s=" 7.81" A="0.014595" pressure=" 512" />
+<coord trace_id="  7" trace_age=" 576" x_mm="1567.930" y_mm=" 132.977" vx_mm_s=" 1.17" vy_mm_s="14.45" A="0.018091" pressure=" 512" />
+<coord trace_id="  8" trace_age=" 576" x_mm="1429.879" y_mm=" 104.914" vx_mm_s=" 2.73" vy_mm_s=" 3.12" A="0.019566" pressure=" 512" />
+<coord trace_id=" 10" trace_age=" 509" x_mm=" 643.742" y_mm=" 166.172" vx_mm_s="-101.56" vy_mm_s="-62.50" A="0.022141" pressure=" 512" />
+<coord trace_id=" 11" trace_age=" 504" x_mm=" 506.785" y_mm=" 150.895" vx_mm_s="-28.52" vy_mm_s="-273.44" A="0.020391" pressure=" 512" />
+<coord trace_id=" 12" trace_age=" 504" x_mm=" 605.664" y_mm=" 210.312" vx_mm_s="-150.39" vy_mm_s="-127.73" A="0.018391" pressure=" 512" />
+<coord trace_id=" 13" trace_age=" 503" x_mm=" 521.176" y_mm=" 216.727" vx_mm_s="-113.67" vy_mm_s="-251.95" A="0.020933" pressure=" 512" />
+<coord trace_id=" 14" trace_age=" 502" x_mm=" 571.684" y_mm=" 225.387" vx_mm_s="-138.28" vy_mm_s="-183.98" A="0.018370" pressure=" 512" />
+<coord trace_id=" 15" trace_age=" 498" x_mm=" 199.055" y_mm=" 174.621" vx_mm_s="74.61" vy_mm_s="-75.78" A="0.018320" pressure=" 512" />
+<coord trace_id=" 16" trace_age=" 495" x_mm=" 346.309" y_mm=" 141.605" vx_mm_s="-22.66" vy_mm_s="-224.61" A="0.020336" pressure=" 512" />
+<coord trace_id=" 17" trace_age=" 494" x_mm=" 257.199" y_mm=" 212.621" vx_mm_s="124.22" vy_mm_s="-133.20" A="0.015686" pressure=" 512" />
+<coord trace_id=" 18" trace_age=" 492" x_mm=" 334.805" y_mm=" 208.844" vx_mm_s="86.33" vy_mm_s="-238.28" A="0.018192" pressure=" 512" />
+<coord trace_id=" 19" trace_age=" 489" x_mm=" 289.762" y_mm=" 224.270" vx_mm_s="88.67" vy_mm_s="-192.58" A="0.015026" pressure=" 512" />
+</frame>
+<frame frame_nbr="6212" touch_activity= "3" coords="20" nbr_touch_ups="0" invalid_scanlines="6.05">
+<coord trace_id="  0" trace_age=" 601" x_mm="1037.270" y_mm=" 154.207" vx_mm_s=" 1.17" vy_mm_s="-2.34" A="0.021513" pressure=" 512" />
+<coord trace_id="  1" trace_age=" 600" x_mm="1068.535" y_mm=" 193.746" vx_mm_s=" 0.39" vy_mm_s="-0.39" A="0.020693" pressure=" 512" />
+<coord trace_id="  2" trace_age=" 599" x_mm="1093.500" y_mm=" 216.359" vx_mm_s="-3.12" vy_mm_s="-0.39" A="0.017694" pressure=" 512" />
+<coord trace_id="  3" trace_age=" 598" x_mm="1127.785" y_mm=" 206.035" vx_mm_s="-2.73" vy_mm_s=" 0.39" A="0.019209" pressure=" 512" />
+<coord trace_id="  4" trace_age=" 598" x_mm="1186.344" y_mm=" 125.188" vx_mm_s="-1.56" vy_mm_s=" 1.56" A="0.022018" pressure=" 512" />
+<coord trace_id="  5" trace_age=" 578" x_mm="1520.871" y_mm=" 188.336" vx_mm_s=" 0.00" vy_mm_s=" 5.86" A="0.016291" pressure=" 512" />
+<coord trace_id="  6" trace_age=" 578" x_mm="1541.676" y_mm=" 169.820" vx_mm_s="-0.39" vy_mm_s=" 0.39" A="0.016254" pressure=" 512" />
+<coord trace_id="  9" trace_age=" 578" x_mm="1494.184" y_mm=" 178.742" vx_mm_s=" 3.12" vy_mm_s=" 5.47" A="0.014467" pressure=" 512" />
+<coord trace_id="  7" trace_age=" 577" x_mm="1567.930" y_mm=" 133.012" vx_mm_s=" 1.17" vy_mm_s="15.23" A="0.017933" pressure=" 512" />
+<coord trace_id="  8" trace_age=" 577" x_mm="1429.895" y_mm=" 104.926" vx_mm_s=" 3.52" vy_mm_s=" 7.03" A="0.019468" pressure=" 512" />
+<coord trace_id=" 10" trace_age=" 510" x_mm=" 642.652" y_mm=" 165.496" vx_mm_s="-108.98" vy_mm_s="-72.27" A="0.022459" pressure=" 512" />
+<coord trace_id=" 11" trace_age=" 505" x_mm=" 506.660" y_mm=" 148.070" vx_mm_s="-21.09" vy_mm_s="-289.45" A="0.020237" pressure=" 512" />
+<coord trace_id=" 12" trace_age=" 505" x_mm=" 604.176" y_mm=" 209.012" vx_mm_s="-141.80" vy_mm_s="-129.30" A="0.018145" pressure=" 512" />
+<coord trace_id=" 13" trace_age=" 504" x_mm=" 519.652" y_mm=" 213.406" vx_mm_s="-122.66" vy_mm_s="-262.89" A="0.021463" pressure=" 512" />
+<coord trace_id=" 14" trace_age=" 503" x_mm=" 570.344" y_mm=" 223.422" vx_mm_s="-125.00" vy_mm_s="-201.56" A="0.018040" pressure=" 512" />
+<coord trace_id=" 15" trace_age=" 499" x_mm=" 199.770" y_mm=" 173.895" vx_mm_s="73.44" vy_mm_s="-65.23" A="0.018084" pressure=" 512" />
+<coord trace_id=" 16" trace_age=" 496" x_mm=" 345.898" y_mm=" 139.230" vx_mm_s="-32.81" vy_mm_s="-240.23" A="0.020157" pressure=" 512" />
+<coord trace_id=" 17" trace_age=" 495" x_mm=" 257.902" y_mm=" 211.707" vx_mm_s="101.56" vy_mm_s="-114.06" A="0.015274" pressure=" 512" />
+<coord trace_id=" 18" trace_age=" 493" x_mm=" 335.340" y_mm=" 206.316" vx_mm_s="61.33" vy_mm_s="-247.27" A="0.019119" pressure=" 512" />
+<coord trace_id=" 19" trace_age=" 490" x_mm=" 290.664" y_mm=" 221.336" vx_mm_s="87.11" vy_mm_s="-216.02" A="0.014944" pressure=" 512" />
+</frame>
+<frame frame_nbr="6213" touch_activity= "3" coords="20" nbr_touch_ups="0" invalid_scanlines="6.08">
+<coord trace_id="  0" trace_age=" 602" x_mm="1037.277" y_mm=" 154.195" vx_mm_s=" 0.78" vy_mm_s="-1.56" A="0.021120" pressure=" 512" />
+<coord trace_id="  1" trace_age=" 601" x_mm="1068.539" y_mm=" 193.738" vx_mm_s=" 0.39" vy_mm_s="-0.39" A="0.020723" pressure=" 512" />
+<coord trace_id="  2" trace_age=" 600" x_mm="1093.492" y_mm=" 216.363" vx_mm_s="-2.34" vy_mm_s="-0.39" A="0.017704" pressure=" 512" />
+<coord trace_id="  3" trace_age=" 599" x_mm="1127.781" y_mm=" 206.031" vx_mm_s="-1.95" vy_mm_s=" 0.39" A="0.019358" pressure=" 512" />
+<coord trace_id="  4" trace_age=" 599" x_mm="1186.340" y_mm=" 125.195" vx_mm_s="-1.17" vy_mm_s=" 1.17" A="0.021833" pressure=" 512" />
+<coord trace_id="  5" trace_age=" 579" x_mm="1520.871" y_mm=" 188.363" vx_mm_s="-0.39" vy_mm_s=" 9.38" A="0.016275" pressure=" 512" />
+<coord trace_id="  6" trace_age=" 579" x_mm="1541.676" y_mm=" 169.820" vx_mm_s="-0.39" vy_mm_s=" 0.39" A="0.016247" pressure=" 512" />
+<coord trace_id="  9" trace_age=" 579" x_mm="1494.195" y_mm=" 178.773" vx_mm_s=" 4.30" vy_mm_s="11.72" A="0.014368" pressure=" 512" />
+<coord trace_id="  7" trace_age=" 578" x_mm="1567.934" y_mm=" 133.055" vx_mm_s=" 1.17" vy_mm_s="17.58" A="0.017694" pressure=" 512" />
+<coord trace_id="  8" trace_age=" 578" x_mm="1429.910" y_mm=" 104.938" vx_mm_s=" 2.34" vy_mm_s=" 5.08" A="0.019262" pressure=" 512" />
+<coord trace_id=" 10" trace_age=" 511" x_mm=" 641.555" y_mm=" 164.758" vx_mm_s="-110.16" vy_mm_s="-79.69" A="0.022398" pressure=" 512" />
+<coord trace_id=" 11" trace_age=" 506" x_mm=" 506.656" y_mm=" 145.148" vx_mm_s="-9.38" vy_mm_s="-295.31" A="0.019861" pressure=" 512" />
+<coord trace_id=" 12" trace_age=" 506" x_mm=" 602.680" y_mm=" 207.637" vx_mm_s="-143.36" vy_mm_s="-136.72" A="0.018227" pressure=" 512" />
+<coord trace_id=" 13" trace_age=" 505" x_mm=" 518.484" y_mm=" 210.930" vx_mm_s="-119.14" vy_mm_s="-252.34" A="0.020264" pressure=" 512" />
+<coord trace_id=" 14" trace_age=" 504" x_mm=" 568.602" y_mm=" 220.691" vx_mm_s="-134.38" vy_mm_s="-210.16" A="0.017576" pressure=" 512" />
+<coord trace_id=" 15" trace_age=" 500" x_mm=" 200.266" y_mm=" 173.309" vx_mm_s="58.20" vy_mm_s="-67.58" A="0.017973" pressure=" 512" />
+<coord trace_id=" 16" trace_age=" 497" x_mm=" 345.391" y_mm=" 136.789" vx_mm_s="-41.80" vy_mm_s="-246.48" A="0.018913" pressure=" 512" />
+<coord trace_id=" 17" trace_age=" 496" x_mm=" 259.465" y_mm=" 209.465" vx_mm_s="126.95" vy_mm_s="-169.14" A="0.015326" pressure=" 512" />
+<coord trace_id=" 18" trace_age=" 494" x_mm=" 335.715" y_mm=" 203.812" vx_mm_s="53.12" vy_mm_s="-241.41" A="0.018671" pressure=" 512" />
+<coord trace_id=" 19" trace_age=" 491" x_mm=" 291.207" y_mm=" 219.180" vx_mm_s="74.22" vy_mm_s="-209.38" A="0.014973" pressure=" 512" />
+</frame>
+<frame frame_nbr="6214" touch_activity= "3" coords="20" nbr_touch_ups="0" invalid_scanlines="6.05">
+<coord trace_id="  0" trace_age=" 603" x_mm="1037.285" y_mm=" 154.184" vx_mm_s=" 0.39" vy_mm_s="-1.17" A="0.020992" pressure=" 512" />
+<coord trace_id="  1" trace_age=" 602" x_mm="1068.543" y_mm=" 193.730" vx_mm_s=" 0.39" vy_mm_s="-0.39" A="0.020632" pressure=" 512" />
+<coord trace_id="  2" trace_age=" 601" x_mm="1093.484" y_mm=" 216.367" vx_mm_s="-1.56" vy_mm_s="-0.39" A="0.017885" pressure=" 512" />
+<coord trace_id="  3" trace_age=" 600" x_mm="1127.777" y_mm=" 206.027" vx_mm_s="-1.17" vy_mm_s=" 0.39" A="0.019415" pressure=" 512" />
+<coord trace_id="  4" trace_age=" 600" x_mm="1186.340" y_mm=" 125.203" vx_mm_s="-0.78" vy_mm_s=" 0.78" A="0.021860" pressure=" 512" />
+<coord trace_id="  5" trace_age=" 580" x_mm="1520.871" y_mm=" 188.391" vx_mm_s="-0.39" vy_mm_s=" 6.64" A="0.016260" pressure=" 512" />
+<coord trace_id="  6" trace_age=" 580" x_mm="1541.676" y_mm=" 169.820" vx_mm_s="-0.39" vy_mm_s=" 0.39" A="0.016375" pressure=" 512" />
+<coord trace_id="  9" trace_age=" 580" x_mm="1494.203" y_mm=" 178.805" vx_mm_s=" 3.12" vy_mm_s=" 8.20" A="0.014305" pressure=" 512" />
+<coord trace_id="  7" trace_age=" 579" x_mm="1567.938" y_mm=" 133.098" vx_mm_s=" 0.78" vy_mm_s="12.11" A="0.017414" pressure=" 512" />
+<coord trace_id="  8" trace_age=" 579" x_mm="1429.926" y_mm=" 104.949" vx_mm_s=" 1.56" vy_mm_s=" 3.52" A="0.019169" pressure=" 512" />
+<coord trace_id=" 10" trace_age=" 512" x_mm=" 640.168" y_mm=" 163.711" vx_mm_s="-110.16" vy_mm_s="-91.41" A="0.021824" pressure=" 512" />
+<coord trace_id=" 11" trace_age=" 507" x_mm=" 506.922" y_mm=" 140.961" vx_mm_s="10.94" vy_mm_s="-314.84" A="0.020557" pressure=" 512" />
+<coord trace_id=" 12" trace_age=" 507" x_mm=" 600.766" y_mm=" 205.625" vx_mm_s="-142.19" vy_mm_s="-156.64" A="0.017906" pressure=" 512" />
+<coord trace_id=" 13" trace_age=" 506" x_mm=" 517.254" y_mm=" 208.191" vx_mm_s="-118.75" vy_mm_s="-274.61" A="0.020863" pressure=" 512" />
+<coord trace_id=" 14" trace_age=" 505" x_mm=" 567.266" y_mm=" 218.531" vx_mm_s="-142.19" vy_mm_s="-217.19" A="0.017546" pressure=" 512" />
+<coord trace_id=" 15" trace_age=" 501" x_mm=" 200.918" y_mm=" 172.488" vx_mm_s="66.41" vy_mm_s="-82.03" A="0.017891" pressure=" 512" />
+<coord trace_id=" 16" trace_age=" 498" x_mm=" 344.648" y_mm=" 133.512" vx_mm_s="-46.88" vy_mm_s="-259.38" A="0.018391" pressure=" 512" />
+<coord trace_id=" 17" trace_age=" 497" x_mm=" 260.535" y_mm=" 207.656" vx_mm_s="115.62" vy_mm_s="-175.00" A="0.015383" pressure=" 512" />
+<coord trace_id=" 18" trace_age=" 495" x_mm=" 335.961" y_mm=" 201.301" vx_mm_s="45.31" vy_mm_s="-243.75" A="0.018564" pressure=" 512" />
+<coord trace_id=" 19" trace_age=" 492" x_mm=" 291.668" y_mm=" 216.941" vx_mm_s="66.41" vy_mm_s="-218.36" A="0.014977" pressure=" 512" />
+</frame>
+<frame frame_nbr="6215" touch_activity= "3" coords="20" nbr_touch_ups="0" invalid_scanlines="6.08">
+<coord trace_id="  0" trace_age=" 604" x_mm="1037.293" y_mm=" 154.172" vx_mm_s=" 0.39" vy_mm_s="-0.78" A="0.020554" pressure=" 512" />
+<coord trace_id="  1" trace_age=" 603" x_mm="1068.547" y_mm=" 193.727" vx_mm_s=" 0.39" vy_mm_s="-0.39" A="0.020632" pressure=" 512" />
+<coord trace_id="  2" trace_age=" 602" x_mm="1093.469" y_mm=" 216.379" vx_mm_s="-7.81" vy_mm_s=" 4.69" A="0.017761" pressure=" 512" />
+<coord trace_id="  3" trace_age=" 601" x_mm="1127.773" y_mm=" 206.023" vx_mm_s="-0.78" vy_mm_s=" 0.39" A="0.019421" pressure=" 512" />
+<coord trace_id="  4" trace_age=" 601" x_mm="1186.340" y_mm=" 125.211" vx_mm_s="-0.39" vy_mm_s=" 0.39" A="0.021587" pressure=" 512" />
+<coord trace_id="  5" trace_age=" 581" x_mm="1520.875" y_mm=" 188.422" vx_mm_s=" 0.39" vy_mm_s=" 9.38" A="0.016157" pressure=" 512" />
+<coord trace_id="  6" trace_age=" 581" x_mm="1541.676" y_mm=" 169.820" vx_mm_s="-0.39" vy_mm_s=" 0.39" A="0.016329" pressure=" 512" />
+<coord trace_id="  9" trace_age=" 581" x_mm="1494.211" y_mm=" 178.832" vx_mm_s=" 2.34" vy_mm_s=" 5.86" A="0.014133" pressure=" 512" />
+<coord trace_id="  7" trace_age=" 580" x_mm="1567.941" y_mm=" 133.148" vx_mm_s=" 0.78" vy_mm_s="17.19" A="0.017187" pressure=" 512" />
+<coord trace_id="  8" trace_age=" 580" x_mm="1429.941" y_mm=" 104.961" vx_mm_s=" 1.17" vy_mm_s=" 2.34" A="0.018911" pressure=" 512" />
+<coord trace_id=" 10" trace_age=" 513" x_mm=" 639.090" y_mm=" 162.750" vx_mm_s="-106.25" vy_mm_s="-101.17" A="0.021517" pressure=" 512" />
+<coord trace_id=" 11" trace_age=" 508" x_mm=" 507.371" y_mm=" 137.742" vx_mm_s="25.39" vy_mm_s="-327.73" A="0.019539" pressure=" 512" />
+<coord trace_id=" 12" trace_age=" 508" x_mm=" 599.383" y_mm=" 203.953" vx_mm_s="-142.97" vy_mm_s="-164.06" A="0.018061" pressure=" 512" />
+<coord trace_id=" 13" trace_age=" 507" x_mm=" 516.016" y_mm=" 205.207" vx_mm_s="-119.92" vy_mm_s="-294.53" A="0.019934" pressure=" 512" />
+<coord trace_id=" 14" trace_age=" 506" x_mm=" 565.938" y_mm=" 216.141" vx_mm_s="-133.98" vy_mm_s="-235.55" A="0.017536" pressure=" 512" />
+<coord trace_id=" 15" trace_age=" 502" x_mm=" 201.570" y_mm=" 171.641" vx_mm_s="65.62" vy_mm_s="-88.67" A="0.017921" pressure=" 512" />
+<coord trace_id=" 16" trace_age=" 499" x_mm=" 343.711" y_mm=" 130.059" vx_mm_s="-68.75" vy_mm_s="-282.81" A="0.018709" pressure=" 512" />
+<coord trace_id=" 17" trace_age=" 498" x_mm=" 261.480" y_mm=" 205.785" vx_mm_s="106.64" vy_mm_s="-177.73" A="0.015682" pressure=" 512" />
+<coord trace_id=" 18" trace_age=" 496" x_mm=" 336.105" y_mm=" 198.781" vx_mm_s="36.33" vy_mm_s="-245.31" A="0.018152" pressure=" 512" />
+<coord trace_id=" 19" trace_age=" 493" x_mm=" 292.094" y_mm=" 214.746" vx_mm_s="64.06" vy_mm_s="-212.11" A="0.015223" pressure=" 512" />
+</frame>
+<frame frame_nbr="6216" touch_activity= "3" coords="20" nbr_touch_ups="0" invalid_scanlines="6.05">
+<coord trace_id="  0" trace_age=" 605" x_mm="1037.301" y_mm=" 154.168" vx_mm_s=" 1.56" vy_mm_s=" 5.08" A="0.020329" pressure=" 512" />
+<coord trace_id="  1" trace_age=" 604" x_mm="1068.551" y_mm=" 193.723" vx_mm_s=" 0.39" vy_mm_s="-0.39" A="0.020573" pressure=" 512" />
+<coord trace_id="  2" trace_age=" 603" x_mm="1093.449" y_mm=" 216.402" vx_mm_s="-11.33" vy_mm_s="15.62" A="0.018429" pressure=" 512" />
+<coord trace_id="  3" trace_age=" 602" x_mm="1127.770" y_mm=" 206.020" vx_mm_s="-0.39" vy_mm_s=" 0.39" A="0.019321" pressure=" 512" />
+<coord trace_id="  4" trace_age=" 602" x_mm="1186.336" y_mm=" 125.223" vx_mm_s="-2.73" vy_mm_s=" 4.30" A="0.021441" pressure=" 512" />
+<coord trace_id="  5" trace_age=" 582" x_mm="1520.879" y_mm=" 188.453" vx_mm_s=" 0.39" vy_mm_s=" 6.64" A="0.016157" pressure=" 512" />
+<coord trace_id="  6" trace_age=" 582" x_mm="1541.676" y_mm=" 169.820" vx_mm_s="-0.39" vy_mm_s=" 0.39" A="0.016422" pressure=" 512" />
+<coord trace_id="  9" trace_age=" 582" x_mm="1494.223" y_mm=" 178.863" vx_mm_s=" 4.69" vy_mm_s=" 7.81" A="0.014124" pressure=" 512" />
+<coord trace_id="  7" trace_age=" 581" x_mm="1567.945" y_mm=" 133.203" vx_mm_s=" 2.34" vy_mm_s="19.14" A="0.016912" pressure=" 512" />
+<coord trace_id="  8" trace_age=" 581" x_mm="1429.957" y_mm=" 104.973" vx_mm_s=" 0.78" vy_mm_s=" 1.56" A="0.018709" pressure=" 512" />
+<coord trace_id=" 10" trace_age=" 514" x_mm=" 637.562" y_mm=" 161.094" vx_mm_s="-105.47" vy_mm_s="-118.36" A="0.021246" pressure=" 512" />
+<coord trace_id=" 11" trace_age=" 509" x_mm=" 507.965" y_mm=" 134.406" vx_mm_s="32.03" vy_mm_s="-336.72" A="0.020285" pressure=" 512" />
+<coord trace_id=" 12" trace_age=" 509" x_mm=" 598.062" y_mm=" 202.238" vx_mm_s="-143.75" vy_mm_s="-164.45" A="0.017725" pressure=" 512" />
+<coord trace_id=" 13" trace_age=" 508" x_mm=" 514.645" y_mm=" 201.203" vx_mm_s="-105.47" vy_mm_s="-311.72" A="0.020933" pressure=" 512" />
+<coord trace_id=" 14" trace_age=" 507" x_mm=" 564.680" y_mm=" 213.754" vx_mm_s="-133.59" vy_mm_s="-230.08" A="0.017464" pressure=" 512" />
+<coord trace_id=" 15" trace_age=" 503" x_mm=" 202.191" y_mm=" 170.781" vx_mm_s="58.59" vy_mm_s="-89.84" A="0.017824" pressure=" 512" />
+<coord trace_id=" 16" trace_age=" 500" x_mm=" 342.891" y_mm=" 127.426" vx_mm_s="-71.09" vy_mm_s="-277.73" A="0.019318" pressure=" 512" />
+<coord trace_id=" 17" trace_age=" 499" x_mm=" 262.328" y_mm=" 203.887" vx_mm_s="100.78" vy_mm_s="-178.52" A="0.015326" pressure=" 512" />
+<coord trace_id=" 18" trace_age=" 497" x_mm=" 336.309" y_mm=" 196.320" vx_mm_s="46.09" vy_mm_s="-239.45" A="0.017618" pressure=" 512" />
+<coord trace_id=" 19" trace_age=" 494" x_mm=" 292.469" y_mm=" 212.625" vx_mm_s="53.91" vy_mm_s="-205.08" A="0.015095" pressure=" 512" />
+</frame>
+    <frame frame_nbr="6217" touch_activity= "3" coords="20" nbr_touch_ups="0" invalid_scanlines="6.08">
+<coord trace_id="  0" trace_age=" 606" x_mm="1037.309" y_mm=" 154.172" vx_mm_s=" 1.95" vy_mm_s=" 8.59" A="0.020008" pressure=" 512" />
+<coord trace_id="  1" trace_age=" 605" x_mm="1068.555" y_mm=" 193.719" vx_mm_s=" 0.39" vy_mm_s="-0.39" A="0.020632" pressure=" 512" />
+<coord trace_id="  2" trace_age=" 604" x_mm="1093.426" y_mm=" 216.434" vx_mm_s="-10.55" vy_mm_s="17.58" A="0.018505" pressure=" 512" />
+<coord trace_id="  3" trace_age=" 603" x_mm="1127.766" y_mm=" 206.016" vx_mm_s="-0.39" vy_mm_s=" 0.39" A="0.019213" pressure=" 512" />
+<coord trace_id="  4" trace_age=" 603" x_mm="1186.332" y_mm=" 125.238" vx_mm_s="-1.95" vy_mm_s=" 8.20" A="0.021437" pressure=" 512" />
+<coord trace_id="  5" trace_age=" 583" x_mm="1520.883" y_mm=" 188.480" vx_mm_s=" 0.39" vy_mm_s=" 4.69" A="0.016144" pressure=" 512" />
+<coord trace_id="  6" trace_age=" 583" x_mm="1541.672" y_mm=" 169.828" vx_mm_s="-1.95" vy_mm_s=" 4.69" A="0.016403" pressure=" 512" />
+<coord trace_id="  9" trace_age=" 583" x_mm="1494.234" y_mm=" 178.895" vx_mm_s=" 3.12" vy_mm_s=" 5.47" A="0.014090" pressure=" 512" />
+<coord trace_id="  7" trace_age=" 582" x_mm="1567.949" y_mm=" 133.270" vx_mm_s=" 2.34" vy_mm_s="22.27" A="0.016665" pressure=" 512" />
+<coord trace_id="  8" trace_age=" 582" x_mm="1429.969" y_mm=" 104.984" vx_mm_s=" 0.39" vy_mm_s=" 1.17" A="0.018536" pressure=" 512" />
+<coord trace_id=" 10" trace_age=" 515" x_mm=" 636.211" y_mm=" 159.223" vx_mm_s="-101.95" vy_mm_s="-132.42" A="0.020988" pressure=" 512" />
+<coord trace_id=" 11" trace_age=" 510" x_mm=" 508.781" y_mm=" 130.082" vx_mm_s="36.33" vy_mm_s="-346.88" A="0.019405" pressure=" 512" />
+<coord trace_id=" 12" trace_age=" 510" x_mm=" 596.402" y_mm=" 199.793" vx_mm_s="-138.28" vy_mm_s="-186.72" A="0.017460" pressure=" 512" />
+<coord trace_id=" 13" trace_age=" 509" x_mm=" 513.805" y_mm=" 197.977" vx_mm_s="-99.22" vy_mm_s="-321.48" A="0.019663" pressure=" 512" />
+<coord trace_id=" 14" trace_age=" 508" x_mm=" 563.453" y_mm=" 211.324" vx_mm_s="-131.25" vy_mm_s="-234.38" A="0.017101" pressure=" 512" />
+<coord trace_id=" 15" trace_age=" 504" x_mm=" 202.766" y_mm=" 169.906" vx_mm_s="51.17" vy_mm_s="-87.50" A="0.017723" pressure=" 512" />
+<coord trace_id=" 16" trace_age=" 501" x_mm=" 341.918" y_mm=" 124.812" vx_mm_s="-85.16" vy_mm_s="-272.27" A="0.019047" pressure=" 512" />
+<coord trace_id=" 17" trace_age=" 500" x_mm=" 262.992" y_mm=" 202.043" vx_mm_s="81.64" vy_mm_s="-170.31" A="0.015467" pressure=" 512" />
+<coord trace_id=" 18" trace_age=" 498" x_mm=" 336.504" y_mm=" 193.863" vx_mm_s="31.64" vy_mm_s="-241.41" A="0.017254" pressure=" 512" />
+<coord trace_id=" 19" trace_age=" 495" x_mm=" 292.727" y_mm=" 210.297" vx_mm_s="34.77" vy_mm_s="-223.83" A="0.014767" pressure=" 512" />
+</frame>
+<frame frame_nbr="6218" touch_activity= "3" coords="20" nbr_touch_ups="0" invalid_scanlines="6.05">
+<coord trace_id="  0" trace_age=" 607" x_mm="1037.316" y_mm=" 154.176" vx_mm_s=" 1.17" vy_mm_s=" 5.86" A="0.019650" pressure=" 512" />
+<coord trace_id="  1" trace_age=" 606" x_mm="1068.562" y_mm=" 193.719" vx_mm_s=" 3.12" vy_mm_s=" 3.52" A="0.020782" pressure=" 512" />
+<coord trace_id="  2" trace_age=" 605" x_mm="1093.402" y_mm=" 216.465" vx_mm_s="-7.42" vy_mm_s="12.11" A="0.018579" pressure=" 512" />
+<coord trace_id="  3" trace_age=" 604" x_mm="1127.758" y_mm=" 206.016" vx_mm_s="-4.69" vy_mm_s=" 3.52" A="0.019148" pressure=" 512" />
+<coord trace_id="  4" trace_age=" 604" x_mm="1186.328" y_mm=" 125.254" vx_mm_s="-1.17" vy_mm_s=" 5.86" A="0.021303" pressure=" 512" />
+<coord trace_id="  5" trace_age=" 584" x_mm="1520.887" y_mm=" 188.516" vx_mm_s=" 3.12" vy_mm_s=" 8.20" A="0.016159" pressure=" 512" />
+<coord trace_id="  6" trace_age=" 584" x_mm="1541.668" y_mm=" 169.836" vx_mm_s="-1.17" vy_mm_s=" 3.12" A="0.016375" pressure=" 512" />
+<coord trace_id="  9" trace_age=" 584" x_mm="1494.246" y_mm=" 178.926" vx_mm_s=" 2.34" vy_mm_s=" 3.91" A="0.014078" pressure=" 512" />
+<coord trace_id="  7" trace_age=" 583" x_mm="1567.957" y_mm=" 133.344" vx_mm_s=" 3.12" vy_mm_s="24.61" A="0.016354" pressure=" 512" />
+<coord trace_id="  8" trace_age=" 583" x_mm="1429.980" y_mm=" 105.000" vx_mm_s="-0.39" vy_mm_s=" 6.25" A="0.018414" pressure=" 512" />
+<coord trace_id=" 10" trace_age=" 516" x_mm=" 635.082" y_mm=" 157.328" vx_mm_s="-97.66" vy_mm_s="-145.31" A="0.021120" pressure=" 512" />
+<coord trace_id=" 11" trace_age=" 511" x_mm=" 509.359" y_mm=" 126.715" vx_mm_s="33.98" vy_mm_s="-350.78" A="0.019815" pressure=" 512" />
+<coord trace_id=" 12" trace_age=" 511" x_mm=" 595.094" y_mm=" 197.668" vx_mm_s="-145.31" vy_mm_s="-204.69" A="0.017374" pressure=" 512" />
+<coord trace_id=" 13" trace_age=" 510" x_mm=" 513.070" y_mm=" 194.578" vx_mm_s="-96.88" vy_mm_s="-332.42" A="0.019939" pressure=" 512" />
+<coord trace_id=" 14" trace_age=" 509" x_mm=" 561.848" y_mm=" 207.871" vx_mm_s="-128.12" vy_mm_s="-258.59" A="0.016975" pressure=" 512" />
+<coord trace_id=" 15" trace_age=" 505" x_mm=" 203.254" y_mm=" 168.973" vx_mm_s="42.19" vy_mm_s="-94.53" A="0.017326" pressure=" 512" />
+<coord trace_id=" 16" trace_age=" 502" x_mm=" 340.820" y_mm=" 122.266" vx_mm_s="-92.58" vy_mm_s="-264.06" A="0.019678" pressure=" 512" />
+<coord trace_id=" 17" trace_age=" 501" x_mm=" 263.551" y_mm=" 200.168" vx_mm_s="73.83" vy_mm_s="-175.39" A="0.015322" pressure=" 512" />
+<coord trace_id=" 18" trace_age=" 499" x_mm=" 336.684" y_mm=" 191.250" vx_mm_s="26.56" vy_mm_s="-257.42" A="0.017271" pressure=" 512" />
+<coord trace_id=" 19" trace_age=" 496" x_mm=" 292.902" y_mm=" 208.078" vx_mm_s="34.77" vy_mm_s="-213.67" A="0.014853" pressure=" 512" />
+</frame>
+<frame frame_nbr="6219" touch_activity= "3" coords="20" nbr_touch_ups="0" invalid_scanlines="6.08">
+<coord trace_id="  0" trace_age=" 608" x_mm="1037.320" y_mm=" 154.188" vx_mm_s="-2.34" vy_mm_s="12.11" A="0.019230" pressure=" 512" />
+<coord trace_id="  1" trace_age=" 607" x_mm="1068.570" y_mm=" 193.719" vx_mm_s=" 2.34" vy_mm_s=" 2.34" A="0.020828" pressure=" 512" />
+<coord trace_id="  2" trace_age=" 606" x_mm="1093.379" y_mm=" 216.500" vx_mm_s="-7.42" vy_mm_s="14.45" A="0.018715" pressure=" 512" />
+<coord trace_id="  3" trace_age=" 605" x_mm="1127.746" y_mm=" 206.020" vx_mm_s="-7.42" vy_mm_s=" 5.86" A="0.019213" pressure=" 512" />
+<coord trace_id="  4" trace_age=" 605" x_mm="1186.324" y_mm=" 125.281" vx_mm_s=" 0.78" vy_mm_s="12.89" A="0.021168" pressure=" 512" />
+<coord trace_id="  5" trace_age=" 585" x_mm="1520.891" y_mm=" 188.547" vx_mm_s=" 2.34" vy_mm_s=" 5.86" A="0.015875" pressure=" 512" />
+<coord trace_id="  6" trace_age=" 585" x_mm="1541.664" y_mm=" 169.848" vx_mm_s="-1.56" vy_mm_s=" 7.81" A="0.016390" pressure=" 512" />
+<coord trace_id="  9" trace_age=" 585" x_mm="1494.258" y_mm=" 178.953" vx_mm_s=" 1.56" vy_mm_s=" 2.73" A="0.013988" pressure=" 512" />
+<coord trace_id="  7" trace_age=" 584" x_mm="1567.965" y_mm=" 133.422" vx_mm_s=" 2.73" vy_mm_s="23.44" A="0.016291" pressure=" 512" />
+<coord trace_id="  8" trace_age=" 584" x_mm="1429.992" y_mm=" 105.016" vx_mm_s="-0.39" vy_mm_s=" 4.30" A="0.018370" pressure=" 512" />
+<coord trace_id=" 10" trace_age=" 517" x_mm=" 634.035" y_mm=" 155.395" vx_mm_s="-101.17" vy_mm_s="-153.91" A="0.020756" pressure=" 512" />
+<coord trace_id=" 11" trace_age=" 512" x_mm=" 509.906" y_mm=" 123.172" vx_mm_s="39.84" vy_mm_s="-359.77" A="0.018755" pressure=" 512" />
+<coord trace_id=" 12" trace_age=" 512" x_mm=" 593.883" y_mm=" 195.473" vx_mm_s="-133.98" vy_mm_s="-210.16" A="0.017502" pressure=" 512" />
+<coord trace_id=" 13" trace_age=" 511" x_mm=" 512.328" y_mm=" 191.121" vx_mm_s="-101.95" vy_mm_s="-337.11" A="0.019514" pressure=" 512" />
+<coord trace_id=" 14" trace_age=" 510" x_mm=" 560.621" y_mm=" 205.316" vx_mm_s="-139.45" vy_mm_s="-255.47" A="0.016665" pressure=" 512" />
+<coord trace_id=" 15" trace_age=" 506" x_mm=" 203.707" y_mm=" 167.965" vx_mm_s="42.58" vy_mm_s="-104.30" A="0.017319" pressure=" 512" />
+<coord trace_id=" 16" trace_age=" 503" x_mm=" 339.617" y_mm=" 119.684" vx_mm_s="-100.78" vy_mm_s="-268.75" A="0.019062" pressure=" 512" />
+<coord trace_id=" 17" trace_age=" 502" x_mm=" 264.051" y_mm=" 198.305" vx_mm_s="69.92" vy_mm_s="-176.17" A="0.014896" pressure=" 512" />
+<coord trace_id=" 18" trace_age=" 500" x_mm=" 336.816" y_mm=" 188.426" vx_mm_s="19.53" vy_mm_s="-274.61" A="0.016745" pressure=" 512" />
+<coord trace_id=" 19" trace_age=" 497" x_mm=" 292.996" y_mm=" 205.859" vx_mm_s="25.00" vy_mm_s="-215.23" A="0.014853" pressure=" 512" />
+</frame>
+<frame frame_nbr="6220" touch_activity= "3" coords="20" nbr_touch_ups="0" invalid_scanlines="6.05">
+<coord trace_id="  0" trace_age=" 609" x_mm="1037.320" y_mm=" 154.207" vx_mm_s="-4.69" vy_mm_s="15.62" A="0.018427" pressure=" 512" />
+<coord trace_id="  1" trace_age=" 608" x_mm="1068.578" y_mm=" 193.727" vx_mm_s=" 2.34" vy_mm_s=" 9.77" A="0.020905" pressure=" 512" />
+<coord trace_id="  2" trace_age=" 607" x_mm="1093.352" y_mm=" 216.543" vx_mm_s="-8.59" vy_mm_s="15.62" A="0.018776" pressure=" 512" />
+<coord trace_id="  3" trace_age=" 606" x_mm="1127.730" y_mm=" 206.031" vx_mm_s="-7.81" vy_mm_s="10.55" A="0.019039" pressure=" 512" />
+<coord trace_id="  4" trace_age=" 606" x_mm="1186.324" y_mm=" 125.316" vx_mm_s=" 2.73" vy_mm_s="17.97" A="0.020845" pressure=" 512" />
+<coord trace_id="  5" trace_age=" 586" x_mm="1520.895" y_mm=" 188.578" vx_mm_s=" 1.56" vy_mm_s=" 3.91" A="0.015875" pressure=" 512" />
+<coord trace_id="  6" trace_age=" 586" x_mm="1541.660" y_mm=" 169.867" vx_mm_s="-1.95" vy_mm_s="10.94" A="0.016306" pressure=" 512" />
+<coord trace_id="  9" trace_age=" 586" x_mm="1494.270" y_mm=" 178.980" vx_mm_s=" 1.17" vy_mm_s=" 1.95" A="0.013918" pressure=" 512" />
+<coord trace_id="  7" trace_age=" 585" x_mm="1567.973" y_mm=" 133.508" vx_mm_s=" 3.91" vy_mm_s="26.95" A="0.016056" pressure=" 512" />
+<coord trace_id="  8" trace_age=" 585" x_mm="1430.000" y_mm=" 105.039" vx_mm_s="-2.34" vy_mm_s=" 9.38" A="0.018213" pressure=" 512" />
+<coord trace_id=" 10" trace_age=" 518" x_mm=" 633.250" y_mm=" 153.816" vx_mm_s="-96.09" vy_mm_s="-158.20" A="0.021112" pressure=" 512" />
+<coord trace_id=" 11" trace_age=" 513" x_mm=" 510.574" y_mm=" 118.250" vx_mm_s="44.14" vy_mm_s="-388.28" A="0.017492" pressure=" 512" />
+<coord trace_id=" 12" trace_age=" 513" x_mm=" 592.434" y_mm=" 192.621" vx_mm_s="-132.42" vy_mm_s="-218.75" A="0.016937" pressure=" 512" />
+<coord trace_id=" 13" trace_age=" 512" x_mm=" 511.594" y_mm=" 187.668" vx_mm_s="-93.36" vy_mm_s="-337.11" A="0.019213" pressure=" 512" />
+<coord trace_id=" 14" trace_age=" 511" x_mm=" 559.363" y_mm=" 202.656" vx_mm_s="-135.16" vy_mm_s="-267.19" A="0.016562" pressure=" 512" />
+<coord trace_id=" 15" trace_age=" 507" x_mm=" 204.105" y_mm=" 166.910" vx_mm_s="38.67" vy_mm_s="-108.59" A="0.017099" pressure=" 512" />
+<coord trace_id=" 16" trace_age=" 504" x_mm=" 338.316" y_mm=" 117.195" vx_mm_s="-110.55" vy_mm_s="-254.69" A="0.018499" pressure=" 512" />
+<coord trace_id=" 17" trace_age=" 503" x_mm=" 264.715" y_mm=" 196.160" vx_mm_s="87.50" vy_mm_s="-200.39" A="0.015177" pressure=" 512" />
+<coord trace_id=" 18" trace_age=" 501" x_mm=" 336.898" y_mm=" 185.668" vx_mm_s="15.23" vy_mm_s="-266.41" A="0.016815" pressure=" 512" />
+<coord trace_id=" 19" trace_age=" 498" x_mm=" 293.137" y_mm=" 203.758" vx_mm_s="33.20" vy_mm_s="-203.12" A="0.014767" pressure=" 512" />
+</frame>
+<frame frame_nbr="6221" touch_activity= "3" coords="20" nbr_touch_ups="0" invalid_scanlines="6.08">
+<coord trace_id="  0" trace_age=" 610" x_mm="1037.316" y_mm=" 154.234" vx_mm_s="-7.81" vy_mm_s="19.53" A="0.018021" pressure=" 512" />
+<coord trace_id="  1" trace_age=" 609" x_mm="1068.582" y_mm=" 193.746" vx_mm_s=" 0.78" vy_mm_s="14.84" A="0.020874" pressure=" 512" />
+<coord trace_id="  2" trace_age=" 608" x_mm="1093.324" y_mm=" 216.590" vx_mm_s="-7.81" vy_mm_s="17.19" A="0.018852" pressure=" 512" />
+<coord trace_id="  3" trace_age=" 607" x_mm="1127.711" y_mm=" 206.055" vx_mm_s="-8.59" vy_mm_s="15.62" A="0.018808" pressure=" 512" />
+<coord trace_id="  4" trace_age=" 607" x_mm="1186.332" y_mm=" 125.363" vx_mm_s=" 6.64" vy_mm_s="22.27" A="0.020153" pressure=" 512" />
+<coord trace_id="  5" trace_age=" 587" x_mm="1520.902" y_mm=" 188.613" vx_mm_s=" 3.52" vy_mm_s=" 7.42" A="0.015831" pressure=" 512" />
+<coord trace_id="  6" trace_age=" 587" x_mm="1541.656" y_mm=" 169.887" vx_mm_s="-1.17" vy_mm_s=" 7.81" A="0.016249" pressure=" 512" />
+<coord trace_id="  9" trace_age=" 587" x_mm="1494.285" y_mm=" 179.012" vx_mm_s=" 5.47" vy_mm_s=" 6.25" A="0.013851" pressure=" 512" />
+<coord trace_id="  7" trace_age=" 586" x_mm="1567.984" y_mm=" 133.605" vx_mm_s=" 4.30" vy_mm_s="28.91" A="0.015724" pressure=" 512" />
+<coord trace_id="  8" trace_age=" 586" x_mm="1430.008" y_mm=" 105.066" vx_mm_s="-2.34" vy_mm_s="11.33" A="0.018059" pressure=" 512" />
+<coord trace_id=" 10" trace_age=" 519" x_mm=" 632.152" y_mm=" 151.414" vx_mm_s="-97.27" vy_mm_s="-181.64" A="0.020565" pressure=" 512" />
+<coord trace_id=" 11" trace_age=" 514" x_mm=" 510.996" y_mm=" 114.148" vx_mm_s="41.02" vy_mm_s="-415.23" A="0.016491" pressure=" 512" />
+<coord trace_id=" 12" trace_age=" 514" x_mm=" 590.508" y_mm=" 188.988" vx_mm_s="-167.19" vy_mm_s="-262.89" A="0.018013" pressure=" 512" />
+<coord trace_id=" 13" trace_age=" 513" x_mm=" 510.938" y_mm=" 184.000" vx_mm_s="-73.83" vy_mm_s="-355.08" A="0.019421" pressure=" 512" />
+<coord trace_id=" 14" trace_age=" 512" x_mm=" 558.113" y_mm=" 200.043" vx_mm_s="-132.42" vy_mm_s="-257.81" A="0.016296" pressure=" 512" />
+<coord trace_id=" 15" trace_age=" 508" x_mm=" 204.453" y_mm=" 165.836" vx_mm_s="35.16" vy_mm_s="-108.98" A="0.016785" pressure=" 512" />
+<coord trace_id=" 16" trace_age=" 505" x_mm=" 336.934" y_mm=" 114.770" vx_mm_s="-117.58" vy_mm_s="-249.61" A="0.018888" pressure=" 512" />
+<coord trace_id=" 17" trace_age=" 504" x_mm=" 265.328" y_mm=" 194.074" vx_mm_s="66.80" vy_mm_s="-198.44" A="0.015202" pressure=" 512" />
+<coord trace_id=" 18" trace_age=" 502" x_mm=" 336.848" y_mm=" 182.879" vx_mm_s=" 0.39" vy_mm_s="-271.48" A="0.017515" pressure=" 512" />
+<coord trace_id=" 19" trace_age=" 499" x_mm=" 293.355" y_mm=" 201.652" vx_mm_s="31.25" vy_mm_s="-206.64" A="0.014898" pressure=" 512" />
+</frame>
+<frame frame_nbr="6222" touch_activity= "3" coords="20" nbr_touch_ups="0" invalid_scanlines="6.05">
+<coord trace_id="  0" trace_age=" 611" x_mm="1037.309" y_mm=" 154.270" vx_mm_s="-6.64" vy_mm_s="20.31" A="0.016150" pressure=" 512" />
+<coord trace_id="  1" trace_age=" 610" x_mm="1068.586" y_mm=" 193.777" vx_mm_s="-2.73" vy_mm_s="21.88" A="0.018881" pressure=" 512" />
+<coord trace_id="  2" trace_age=" 609" x_mm="1093.293" y_mm=" 216.645" vx_mm_s="-8.20" vy_mm_s="18.75" A="0.016150" pressure=" 512" />
+<coord trace_id="  3" trace_age=" 608" x_mm="1127.691" y_mm=" 206.090" vx_mm_s="-7.03" vy_mm_s="21.88" A="0.016174" pressure=" 512" />
+<coord trace_id="  4" trace_age=" 608" x_mm="1186.344" y_mm=" 125.418" vx_mm_s=" 8.98" vy_mm_s="25.78" A="0.016819" pressure=" 512" />
+<coord trace_id="  5" trace_age=" 588" x_mm="1520.910" y_mm=" 188.652" vx_mm_s=" 3.91" vy_mm_s=" 9.77" A="0.013916" pressure=" 512" />
+<coord trace_id="  6" trace_age=" 588" x_mm="1541.652" y_mm=" 169.906" vx_mm_s="-0.78" vy_mm_s=" 5.47" A="0.014469" pressure=" 512" />
+<coord trace_id="  9" trace_age=" 588" x_mm="1494.305" y_mm=" 179.051" vx_mm_s=" 5.86" vy_mm_s="10.55" A="0.012177" pressure=" 512" />
+<coord trace_id="  7" trace_age=" 587" x_mm="1567.996" y_mm=" 133.734" vx_mm_s=" 5.47" vy_mm_s="51.17" A="0.013462" pressure=" 512" />
+<coord trace_id="  8" trace_age=" 587" x_mm="1430.016" y_mm=" 105.102" vx_mm_s="-2.34" vy_mm_s="16.41" A="0.016045" pressure=" 512" />
+<coord trace_id=" 10" trace_age=" 520" x_mm=" 630.891" y_mm=" 148.641" vx_mm_s="-112.89" vy_mm_s="-209.77" A="0.017332" pressure=" 512" />
+<coord trace_id=" 11" trace_age=" 515" x_mm=" 511.598" y_mm=" 108.273" vx_mm_s="55.47" vy_mm_s="-448.83" A="0.014423" pressure=" 512" />
+<coord trace_id=" 12" trace_age=" 515" x_mm=" 589.184" y_mm=" 186.352" vx_mm_s="-147.66" vy_mm_s="-271.88" A="0.015833" pressure=" 512" />
+<coord trace_id=" 13" trace_age=" 514" x_mm=" 510.195" y_mm=" 179.000" vx_mm_s="-67.97" vy_mm_s="-377.34" A="0.016911" pressure=" 512" />
+<coord trace_id=" 14" trace_age=" 513" x_mm=" 556.293" y_mm=" 196.066" vx_mm_s="-139.06" vy_mm_s="-300.78" A="0.014509" pressure=" 512" />
+<coord trace_id=" 15" trace_age=" 509" x_mm=" 204.789" y_mm=" 164.656" vx_mm_s="35.55" vy_mm_s="-122.27" A="0.014444" pressure=" 512" />
+<coord trace_id=" 16" trace_age=" 506" x_mm=" 335.348" y_mm=" 112.191" vx_mm_s="-137.50" vy_mm_s="-261.33" A="0.016247" pressure=" 512" />
+<coord trace_id=" 17" trace_age=" 505" x_mm=" 265.926" y_mm=" 191.992" vx_mm_s="65.23" vy_mm_s="-199.61" A="0.013599" pressure=" 512" />
+<coord trace_id=" 18" trace_age=" 503" x_mm=" 336.816" y_mm=" 180.004" vx_mm_s="12.11" vy_mm_s="-282.42" A="0.015217" pressure=" 512" />
+<coord trace_id=" 19" trace_age=" 500" x_mm=" 293.715" y_mm=" 199.473" vx_mm_s="39.84" vy_mm_s="-216.02" A="0.013018" pressure=" 512" />
+</frame>
+<frame frame_nbr="6223" touch_activity= "3" coords="20" nbr_touch_ups="0" invalid_scanlines="6.08">
+<coord trace_id="  0" trace_age=" 612" x_mm="1037.305" y_mm=" 154.309" vx_mm_s="-1.95" vy_mm_s="18.36" A="0.015755" pressure=" 512" />
+<coord trace_id="  1" trace_age=" 611" x_mm="1068.582" y_mm=" 193.824" vx_mm_s="-6.25" vy_mm_s="28.91" A="0.018490" pressure=" 512" />
+<coord trace_id="  2" trace_age=" 610" x_mm="1093.262" y_mm=" 216.695" vx_mm_s="-5.86" vy_mm_s="13.28" A="0.015682" pressure=" 512" />
+<coord trace_id="  3" trace_age=" 609" x_mm="1127.672" y_mm=" 206.160" vx_mm_s="-5.86" vy_mm_s="45.70" A="0.015379" pressure=" 512" />
+<coord trace_id="  4" trace_age=" 609" x_mm="1186.359" y_mm=" 125.488" vx_mm_s="10.16" vy_mm_s="30.47" A="0.014978" pressure=" 512" />
+<coord trace_id="  5" trace_age=" 589" x_mm="1520.922" y_mm=" 188.699" vx_mm_s=" 4.69" vy_mm_s="13.28" A="0.013823" pressure=" 512" />
+<coord trace_id="  6" trace_age=" 589" x_mm="1541.648" y_mm=" 169.930" vx_mm_s="-1.95" vy_mm_s="10.55" A="0.014418" pressure=" 512" />
+<coord trace_id="  9" trace_age=" 589" x_mm="1494.324" y_mm=" 179.098" vx_mm_s=" 6.25" vy_mm_s="14.06" A="0.012007" pressure=" 512" />
+<coord trace_id="  7" trace_age=" 588" x_mm="1568.043" y_mm=" 134.145" vx_mm_s=" 7.81" vy_mm_s="51.56" A="0.012716" pressure=" 512" />
+<coord trace_id="  8" trace_age=" 588" x_mm="1430.023" y_mm=" 105.141" vx_mm_s="-1.95" vy_mm_s="16.41" A="0.015516" pressure=" 512" />
+<coord trace_id=" 10" trace_age=" 521" x_mm=" 629.539" y_mm=" 145.719" vx_mm_s="-121.88" vy_mm_s="-232.42" A="0.017170" pressure=" 512" />
+<coord trace_id=" 11" trace_age=" 516" x_mm=" 512.289" y_mm=" 103.711" vx_mm_s="80.86" vy_mm_s="-463.28" A="0.014462" pressure=" 512" />
+<coord trace_id=" 12" trace_age=" 516" x_mm=" 587.797" y_mm=" 183.484" vx_mm_s="-150.78" vy_mm_s="-285.94" A="0.017096" pressure=" 512" />
+<coord trace_id=" 13" trace_age=" 515" x_mm=" 509.777" y_mm=" 175.066" vx_mm_s="-58.59" vy_mm_s="-392.58" A="0.016884" pressure=" 512" />
+<coord trace_id=" 14" trace_age=" 514" x_mm=" 555.055" y_mm=" 192.949" vx_mm_s="-128.12" vy_mm_s="-315.23" A="0.014851" pressure=" 512" />
+<coord trace_id=" 15" trace_age=" 510" x_mm=" 205.301" y_mm=" 162.684" vx_mm_s="41.02" vy_mm_s="-142.19" A="0.013996" pressure=" 512" />
+<coord trace_id=" 16" trace_age=" 507" x_mm=" 333.684" y_mm=" 109.398" vx_mm_s="-139.06" vy_mm_s="-282.81" A="0.016012" pressure=" 512" />
+<coord trace_id=" 17" trace_age=" 506" x_mm=" 266.496" y_mm=" 189.863" vx_mm_s="61.72" vy_mm_s="-207.81" A="0.013836" pressure=" 512" />
+<coord trace_id=" 18" trace_age=" 504" x_mm=" 336.598" y_mm=" 176.945" vx_mm_s="-19.92" vy_mm_s="-293.75" A="0.016512" pressure=" 512" />
+<coord trace_id=" 19" trace_age=" 501" x_mm=" 294.086" y_mm=" 197.371" vx_mm_s="30.08" vy_mm_s="-211.33" A="0.012800" pressure=" 512" />
+</frame>
+<frame frame_nbr="6224" touch_activity= "3" coords="20" nbr_touch_ups="0" invalid_scanlines="6.05">
+<coord trace_id="  0" trace_age=" 613" x_mm="1037.312" y_mm=" 154.352" vx_mm_s=" 6.64" vy_mm_s="16.41" A="0.015556" pressure=" 512" />
+<coord trace_id="  1" trace_age=" 612" x_mm="1068.566" y_mm=" 193.902" vx_mm_s="-15.23" vy_mm_s="50.78" A="0.018414" pressure=" 512" />
+<coord trace_id="  2" trace_age=" 611" x_mm="1093.234" y_mm=" 216.746" vx_mm_s="-3.91" vy_mm_s=" 9.38" A="0.014585" pressure=" 512" />
+<coord trace_id="  3" trace_age=" 610" x_mm="1127.645" y_mm=" 206.238" vx_mm_s="-10.55" vy_mm_s="41.41" A="0.013733" pressure=" 512" />
+<coord trace_id="  4" trace_age=" 610" x_mm="1186.391" y_mm=" 125.598" vx_mm_s="22.27" vy_mm_s="57.42" A="0.011526" pressure=" 512" />
+<coord trace_id="  5" trace_age=" 590" x_mm="1520.938" y_mm=" 188.758" vx_mm_s=" 8.20" vy_mm_s="20.31" A="0.013441" pressure=" 512" />
+<coord trace_id="  6" trace_age=" 590" x_mm="1541.645" y_mm=" 169.969" vx_mm_s=" 1.17" vy_mm_s="18.36" A="0.014198" pressure=" 512" />
+<coord trace_id="  9" trace_age=" 590" x_mm="1494.344" y_mm=" 179.141" vx_mm_s=" 4.30" vy_mm_s=" 9.77" A="0.011478" pressure=" 512" />
+<coord trace_id="  7" trace_age=" 589" x_mm="1568.086" y_mm=" 134.746" vx_mm_s=" 1.17" vy_mm_s="48.44" A="0.011246" pressure=" 512" />
+<coord trace_id="  8" trace_age=" 589" x_mm="1430.031" y_mm=" 105.188" vx_mm_s="-0.39" vy_mm_s="16.80" A="0.015120" pressure=" 512" />
+<coord trace_id=" 10" trace_age=" 522" x_mm=" 628.043" y_mm=" 142.477" vx_mm_s="-128.91" vy_mm_s="-261.33" A="0.016897" pressure=" 512" />
+<coord trace_id=" 11" trace_age=" 517" x_mm=" 513.227" y_mm="  99.215" vx_mm_s="90.23" vy_mm_s="-451.56" A="0.012623" pressure=" 512" />
+<coord trace_id=" 12" trace_age=" 517" x_mm=" 586.434" y_mm=" 180.664" vx_mm_s="-146.48" vy_mm_s="-277.34" A="0.016472" pressure=" 512" />
+<coord trace_id=" 13" trace_age=" 516" x_mm=" 509.484" y_mm=" 171.117" vx_mm_s="-50.39" vy_mm_s="-393.36" A="0.017420" pressure=" 512" />
+<coord trace_id=" 14" trace_age=" 515" x_mm=" 553.770" y_mm=" 189.762" vx_mm_s="-146.09" vy_mm_s="-315.62" A="0.014933" pressure=" 512" />
+<coord trace_id=" 15" trace_age=" 511" x_mm=" 205.781" y_mm=" 160.621" vx_mm_s="37.50" vy_mm_s="-148.44" A="0.013811" pressure=" 512" />
+<coord trace_id=" 16" trace_age=" 508" x_mm=" 332.016" y_mm=" 106.621" vx_mm_s="-150.78" vy_mm_s="-276.95" A="0.016668" pressure=" 512" />
+<coord trace_id=" 17" trace_age=" 507" x_mm=" 266.941" y_mm=" 187.930" vx_mm_s="50.00" vy_mm_s="-190.23" A="0.013865" pressure=" 512" />
+<coord trace_id=" 18" trace_age=" 505" x_mm=" 336.344" y_mm=" 174.090" vx_mm_s="-8.98" vy_mm_s="-275.78" A="0.015932" pressure=" 512" />
+<coord trace_id=" 19" trace_age=" 502" x_mm=" 294.406" y_mm=" 194.848" vx_mm_s="19.53" vy_mm_s="-249.22" A="0.013212" pressure=" 512" />
+</frame>
+<frame frame_nbr="6225" touch_activity= "3" coords="19" nbr_touch_ups="1" invalid_scanlines="6.08">
+<coord trace_id="  0" trace_age=" 614" x_mm="1037.352" y_mm=" 154.418" vx_mm_s="31.64" vy_mm_s="33.20" A="0.014542" pressure=" 512" />
+<coord trace_id="  1" trace_age=" 613" x_mm="1068.547" y_mm=" 193.984" vx_mm_s="-12.89" vy_mm_s="41.41" A="0.018229" pressure=" 512" />
+<coord trace_id="  2" trace_age=" 612" x_mm="1093.211" y_mm=" 216.785" vx_mm_s=" 1.17" vy_mm_s="-1.17" A="0.012808" pressure=" 512" />
+<coord trace_id="  3" trace_age=" 611" x_mm="1127.605" y_mm=" 206.352" vx_mm_s="-17.58" vy_mm_s="61.33" A="0.011621" pressure=" 512" />
+<coord trace_id="  5" trace_age=" 591" x_mm="1520.961" y_mm=" 188.824" vx_mm_s="13.67" vy_mm_s="24.61" A="0.013496" pressure=" 512" />
+<coord trace_id="  6" trace_age=" 591" x_mm="1541.645" y_mm=" 170.039" vx_mm_s=" 1.17" vy_mm_s="42.19" A="0.014263" pressure=" 512" />
+<coord trace_id="  9" trace_age=" 591" x_mm="1494.363" y_mm=" 179.195" vx_mm_s=" 3.91" vy_mm_s="17.58" A="0.011007" pressure=" 512" />
+<coord trace_id="  7" trace_age=" 590" x_mm="1568.180" y_mm=" 135.461" vx_mm_s=" 8.59" vy_mm_s="45.31" A="0.008015" pressure=" 512" />
+<coord trace_id="  8" trace_age=" 590" x_mm="1430.043" y_mm=" 105.238" vx_mm_s=" 5.08" vy_mm_s="16.41" A="0.015274" pressure=" 512" />
+<coord trace_id=" 10" trace_age=" 523" x_mm=" 626.797" y_mm=" 139.812" vx_mm_s="-135.55" vy_mm_s="-275.78" A="0.017378" pressure=" 512" />
+<coord trace_id=" 11" trace_age=" 518" x_mm=" 514.172" y_mm="  95.293" vx_mm_s="73.44" vy_mm_s="-404.69" A="0.007364" pressure=" 512" />
+<coord trace_id=" 12" trace_age=" 518" x_mm=" 584.625" y_mm=" 176.852" vx_mm_s="-148.83" vy_mm_s="-298.05" A="0.017332" pressure=" 512" />
+<coord trace_id=" 13" trace_age=" 517" x_mm=" 509.348" y_mm=" 167.094" vx_mm_s="-34.77" vy_mm_s="-399.61" A="0.016466" pressure=" 512" />
+<coord trace_id=" 14" trace_age=" 516" x_mm=" 552.512" y_mm=" 186.477" vx_mm_s="-133.59" vy_mm_s="-325.78" A="0.015032" pressure=" 512" />
+<coord trace_id=" 15" trace_age=" 512" x_mm=" 206.164" y_mm=" 158.816" vx_mm_s="35.16" vy_mm_s="-146.48" A="0.013840" pressure=" 512" />
+<coord trace_id=" 16" trace_age=" 509" x_mm=" 330.375" y_mm=" 103.863" vx_mm_s="-150.78" vy_mm_s="-274.22" A="0.017849" pressure=" 512" />
+<coord trace_id=" 17" trace_age=" 508" x_mm=" 267.387" y_mm=" 185.715" vx_mm_s="50.78" vy_mm_s="-216.41" A="0.014145" pressure=" 512" />
+<coord trace_id=" 18" trace_age=" 506" x_mm=" 336.062" y_mm=" 171.281" vx_mm_s="-13.67" vy_mm_s="-273.83" A="0.016724" pressure=" 512" />
+<coord trace_id=" 19" trace_age=" 503" x_mm=" 294.691" y_mm=" 192.383" vx_mm_s="30.08" vy_mm_s="-241.41" A="0.013315" pressure=" 512" />
+<touch_up trace_id="  4" trace_age=" 610" x_mm="1186.391" y_mm=" 125.598" />
+</frame>
+    <frame frame_nbr="6226" touch_activity= "3" coords="17" nbr_touch_ups="2" invalid_scanlines="6.05">
+<coord trace_id="  0" trace_age=" 615" x_mm="1037.426" y_mm=" 154.508" vx_mm_s="56.25" vy_mm_s="44.92" A="0.009739" pressure=" 512" />
+<coord trace_id="  1" trace_age=" 614" x_mm="1068.523" y_mm=" 194.074" vx_mm_s="-13.67" vy_mm_s="37.89" A="0.018175" pressure=" 512" />
+<coord trace_id="  2" trace_age=" 613" x_mm="1093.203" y_mm=" 216.816" vx_mm_s="12.89" vy_mm_s="-6.25" A="0.009584" pressure=" 512" />
+<coord trace_id="  5" trace_age=" 592" x_mm="1520.996" y_mm=" 188.898" vx_mm_s="18.36" vy_mm_s="23.83" A="0.013838" pressure=" 512" />
+<coord trace_id="  6" trace_age=" 592" x_mm="1541.645" y_mm=" 170.117" vx_mm_s=" 3.12" vy_mm_s="39.06" A="0.014233" pressure=" 512" />
+<coord trace_id="  9" trace_age=" 592" x_mm="1494.383" y_mm=" 179.258" vx_mm_s=" 3.52" vy_mm_s="19.92" A="0.010056" pressure=" 512" />
+<coord trace_id="  8" trace_age=" 591" x_mm="1430.090" y_mm=" 105.277" vx_mm_s="33.59" vy_mm_s=" 4.30" A="0.015575" pressure=" 512" />
+<coord trace_id=" 10" trace_age=" 524" x_mm=" 625.086" y_mm=" 136.098" vx_mm_s="-137.11" vy_mm_s="-291.80" A="0.016214" pressure=" 512" />
+<coord trace_id=" 11" trace_age=" 519" x_mm=" 515.184" y_mm="  91.469" vx_mm_s="78.12" vy_mm_s="-394.14" A="0.007364" pressure=" 512" />
+<coord trace_id=" 12" trace_age=" 519" x_mm=" 583.207" y_mm=" 173.684" vx_mm_s="-148.05" vy_mm_s="-318.75" A="0.017311" pressure=" 512" />
+<coord trace_id=" 13" trace_age=" 518" x_mm=" 509.336" y_mm=" 162.867" vx_mm_s="-25.00" vy_mm_s="-414.06" A="0.015701" pressure=" 512" />
+<coord trace_id=" 14" trace_age=" 517" x_mm=" 550.973" y_mm=" 181.922" vx_mm_s="-123.05" vy_mm_s="-350.00" A="0.015297" pressure=" 512" />
+<coord trace_id=" 15" trace_age=" 513" x_mm=" 206.430" y_mm=" 157.387" vx_mm_s="31.64" vy_mm_s="-148.83" A="0.013363" pressure=" 512" />
+<coord trace_id=" 16" trace_age=" 510" x_mm=" 328.797" y_mm=" 101.129" vx_mm_s="-147.27" vy_mm_s="-267.97" A="0.017769" pressure=" 512" />
+<coord trace_id=" 17" trace_age=" 509" x_mm=" 267.805" y_mm=" 183.633" vx_mm_s="51.95" vy_mm_s="-201.56" A="0.014172" pressure=" 512" />
+<coord trace_id=" 18" trace_age=" 507" x_mm=" 335.812" y_mm=" 168.574" vx_mm_s="-11.33" vy_mm_s="-264.45" A="0.016493" pressure=" 512" />
+<coord trace_id=" 19" trace_age=" 504" x_mm=" 294.930" y_mm=" 189.867" vx_mm_s="25.00" vy_mm_s="-248.44" A="0.014189" pressure=" 512" />
+<touch_up trace_id="  3" trace_age=" 611" x_mm="1127.605" y_mm=" 206.352" />
+<touch_up trace_id="  7" trace_age=" 590" x_mm="1568.180" y_mm=" 135.461" />
+</frame>
+<frame frame_nbr="6227" touch_activity= "3" coords="15" nbr_touch_ups="2" invalid_scanlines="6.08">
+<coord trace_id="  1" trace_age=" 615" x_mm="1068.484" y_mm=" 194.195" vx_mm_s="-25.39" vy_mm_s="53.91" A="0.016893" pressure=" 512" />
+<coord trace_id="  5" trace_age=" 593" x_mm="1520.988" y_mm=" 189.031" vx_mm_s="-23.83" vy_mm_s="68.75" A="0.013901" pressure=" 512" />
+<coord trace_id="  6" trace_age=" 593" x_mm="1541.648" y_mm=" 170.238" vx_mm_s=" 3.91" vy_mm_s="66.41" A="0.013760" pressure=" 512" />
+<coord trace_id="  9" trace_age=" 593" x_mm="1494.402" y_mm=" 179.332" vx_mm_s=" 1.17" vy_mm_s="25.39" A="0.008392" pressure=" 512" />
+<coord trace_id="  8" trace_age=" 592" x_mm="1430.148" y_mm=" 105.320" vx_mm_s="32.81" vy_mm_s=" 8.59" A="0.015163" pressure=" 512" />
+<coord trace_id=" 10" trace_age=" 525" x_mm=" 623.785" y_mm=" 133.180" vx_mm_s="-135.55" vy_mm_s="-301.17" A="0.015800" pressure=" 512" />
+<coord trace_id=" 11" trace_age=" 520" x_mm=" 516.172" y_mm="  87.871" vx_mm_s="78.52" vy_mm_s="-374.61" A="0.007364" pressure=" 512" />
+<coord trace_id=" 12" trace_age=" 520" x_mm=" 581.828" y_mm=" 170.445" vx_mm_s="-146.09" vy_mm_s="-322.27" A="0.017008" pressure=" 512" />
+<coord trace_id=" 13" trace_age=" 519" x_mm=" 509.375" y_mm=" 156.613" vx_mm_s="-23.44" vy_mm_s="-457.42" A="0.014713" pressure=" 512" />
+<coord trace_id=" 14" trace_age=" 518" x_mm=" 549.375" y_mm=" 176.691" vx_mm_s="-135.55" vy_mm_s="-405.86" A="0.014196" pressure=" 512" />
+<coord trace_id=" 15" trace_age=" 514" x_mm=" 206.750" y_mm=" 155.551" vx_mm_s="33.98" vy_mm_s="-151.56" A="0.012817" pressure=" 512" />
+<coord trace_id=" 16" trace_age=" 511" x_mm=" 327.234" y_mm="  98.508" vx_mm_s="-151.17" vy_mm_s="-254.69" A="0.016714" pressure=" 512" />
+<coord trace_id=" 17" trace_age=" 510" x_mm=" 268.188" y_mm=" 181.672" vx_mm_s="44.53" vy_mm_s="-189.45" A="0.014387" pressure=" 512" />
+<coord trace_id=" 18" trace_age=" 508" x_mm=" 335.523" y_mm=" 165.832" vx_mm_s="-21.48" vy_mm_s="-270.70" A="0.016422" pressure=" 512" />
+<coord trace_id=" 19" trace_age=" 505" x_mm=" 295.059" y_mm=" 187.254" vx_mm_s="13.28" vy_mm_s="-257.03" A="0.013947" pressure=" 512" />
+<touch_up trace_id="  0" trace_age=" 615" x_mm="1037.426" y_mm=" 154.508" />
+<touch_up trace_id="  2" trace_age=" 613" x_mm="1093.203" y_mm=" 216.816" />
+</frame>
+<frame frame_nbr="6228" touch_activity= "3" coords="14" nbr_touch_ups="1" invalid_scanlines="6.05">
+<coord trace_id="  1" trace_age=" 616" x_mm="1068.449" y_mm=" 194.309" vx_mm_s="-12.50" vy_mm_s="36.33" A="0.008865" pressure=" 512" />
+<coord trace_id="  5" trace_age=" 594" x_mm="1521.051" y_mm=" 189.109" vx_mm_s="44.14" vy_mm_s=" 5.47" A="0.013981" pressure=" 512" />
+<coord trace_id="  6" trace_age=" 594" x_mm="1541.660" y_mm=" 170.410" vx_mm_s=" 8.59" vy_mm_s="77.73" A="0.012512" pressure=" 512" />
+<coord trace_id="  8" trace_age=" 593" x_mm="1430.238" y_mm=" 105.379" vx_mm_s="52.73" vy_mm_s="19.53" A="0.010532" pressure=" 512" />
+<coord trace_id=" 10" trace_age=" 526" x_mm=" 621.910" y_mm=" 128.887" vx_mm_s="-148.44" vy_mm_s="-330.47" A="0.014723" pressure=" 512" />
+<coord trace_id=" 11" trace_age=" 521" x_mm=" 516.824" y_mm="  85.473" vx_mm_s="76.17" vy_mm_s="-348.83" A="0.007364" pressure=" 512" />
+<coord trace_id=" 12" trace_age=" 521" x_mm=" 579.953" y_mm=" 165.898" vx_mm_s="-153.52" vy_mm_s="-348.05" A="0.016821" pressure=" 512" />
+<coord trace_id=" 13" trace_age=" 520" x_mm=" 509.496" y_mm=" 151.699" vx_mm_s="-5.08" vy_mm_s="-494.92" A="0.012976" pressure=" 512" />
+<coord trace_id=" 14" trace_age=" 519" x_mm=" 548.402" y_mm=" 172.941" vx_mm_s="-119.53" vy_mm_s="-385.16" A="0.012651" pressure=" 512" />
+<coord trace_id=" 15" trace_age=" 515" x_mm=" 207.121" y_mm=" 153.211" vx_mm_s="31.64" vy_mm_s="-175.78" A="0.013233" pressure=" 512" />
+<coord trace_id=" 16" trace_age=" 512" x_mm=" 325.609" y_mm="  95.938" vx_mm_s="-156.64" vy_mm_s="-252.34" A="0.015989" pressure=" 512" />
+<coord trace_id=" 17" trace_age=" 511" x_mm=" 268.574" y_mm=" 179.613" vx_mm_s="43.75" vy_mm_s="-202.73" A="0.013605" pressure=" 512" />
+<coord trace_id=" 18" trace_age=" 509" x_mm=" 335.184" y_mm=" 163.188" vx_mm_s="-26.17" vy_mm_s="-260.94" A="0.016287" pressure=" 512" />
+<coord trace_id=" 19" trace_age=" 506" x_mm=" 295.180" y_mm=" 184.711" vx_mm_s="23.83" vy_mm_s="-249.61" A="0.014162" pressure=" 512" />
+<touch_up trace_id="  9" trace_age=" 593" x_mm="1494.402" y_mm=" 179.332" />
+</frame>
+<frame frame_nbr="6229" touch_activity= "3" coords="11" nbr_touch_ups="3" invalid_scanlines="6.08">
+<coord trace_id="  5" trace_age=" 595" x_mm="1521.109" y_mm=" 189.195" vx_mm_s="28.91" vy_mm_s="13.67" A="0.012512" pressure=" 512" />
+<coord trace_id=" 10" trace_age=" 527" x_mm=" 620.453" y_mm=" 125.555" vx_mm_s="-155.08" vy_mm_s="-340.62" A="0.009979" pressure=" 512" />
+<coord trace_id=" 11" trace_age=" 522" x_mm=" 517.457" y_mm="  83.074" vx_mm_s="71.09" vy_mm_s="-317.97" A="0.007364" pressure=" 512" />
+<coord trace_id=" 12" trace_age=" 522" x_mm=" 578.566" y_mm=" 162.242" vx_mm_s="-148.83" vy_mm_s="-369.14" A="0.015446" pressure=" 512" />
+<coord trace_id=" 13" trace_age=" 521" x_mm=" 509.859" y_mm=" 145.109" vx_mm_s="13.28" vy_mm_s="-514.45" A="0.010193" pressure=" 512" />
+<coord trace_id=" 14" trace_age=" 520" x_mm=" 547.645" y_mm=" 169.172" vx_mm_s="-101.95" vy_mm_s="-380.47" A="0.009918" pressure=" 512" />
+<coord trace_id=" 15" trace_age=" 516" x_mm=" 207.391" y_mm=" 151.531" vx_mm_s="34.77" vy_mm_s="-174.22" A="0.012871" pressure=" 512" />
+<coord trace_id=" 16" trace_age=" 513" x_mm=" 323.730" y_mm="  93.223" vx_mm_s="-179.69" vy_mm_s="-265.23" A="0.015453" pressure=" 512" />
+<coord trace_id=" 17" trace_age=" 512" x_mm=" 268.871" y_mm=" 177.438" vx_mm_s="30.86" vy_mm_s="-215.62" A="0.013329" pressure=" 512" />
+<coord trace_id=" 18" trace_age=" 510" x_mm=" 334.859" y_mm=" 160.578" vx_mm_s="-22.66" vy_mm_s="-258.98" A="0.015793" pressure=" 512" />
+<coord trace_id=" 19" trace_age=" 507" x_mm=" 295.281" y_mm=" 182.152" vx_mm_s="17.58" vy_mm_s="-250.39" A="0.014368" pressure=" 512" />
+<touch_up trace_id="  1" trace_age=" 616" x_mm="1068.449" y_mm=" 194.309" />
+<touch_up trace_id="  6" trace_age=" 594" x_mm="1541.660" y_mm=" 170.410" />
+<touch_up trace_id="  8" trace_age=" 593" x_mm="1430.238" y_mm=" 105.379" />
+</frame>
+
+</root>
